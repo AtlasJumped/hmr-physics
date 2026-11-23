@@ -1,0 +1,4 @@
+('perc', 0.1) corr(R_early,R_late)=-0.0025  corr(R_early,R_cross)=0.4151  (noise ~ 0.0071)
+('perc', 0.3) corr(R_early,R_late)=0.0162  corr(R_early,R_cross)=0.3499  (noise ~ 0.0071)
+('K', 2) corr(R_early,R_late)=-0.0063  corr(R_early,R_cross)=0.5572  (noise ~ 0.0071)
+('K', 4) corr(R_early,R_late)=-0.0022  corr(R_early,R_cross)=0.3812  (noise ~ 0.0071)

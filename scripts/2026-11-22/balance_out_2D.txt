@@ -1,0 +1,10 @@
+scatter in 2D (truth)  rw=0.502(0.044)  height=12.460(1.401)  links=166.280(11.407)  mins=4.787(1.736)  maxs=4.667(1.658)  bin0=0.496 n=185  bin1=0.495 n=153  bin2=0.494 n=62  N0=166.3  N1=110.0  N2=84.8  N3=68.3
+global-only, random start 1 (E=1.3e-04 acc=0.68)  rw=0.513(0.004)  height=8.467(0.618)  links=225.933(8.076)  mins=6.183(1.335)  maxs=6.567(1.257)  bin0=0.276 n=148  bin1=0.269 n=110  bin2=0.298 n=47  N0=225.9  N1=162.6  N2=96.0  N3=67.0
+multi-scale, random start 1 (E=5.4e-04 acc=0.59)  rw=0.516(0.003)  height=11.617(0.551)  links=187.350(8.074)  mins=11.200(1.388)  maxs=3.767(0.423)  bin0=0.500 n=180  bin1=0.500 n=164  bin2=0.497 n=63  N0=187.3  N1=125.3  N2=79.8  N3=63.1
+global-only, random start 2 (E=3.5e-04 acc=0.66)  rw=0.515(0.005)  height=9.167(0.756)  links=226.717(9.302)  mins=6.517(1.698)  maxs=4.383(1.305)  bin0=0.272 n=143  bin1=0.264 n=111  bin2=0.311 n=51  N0=226.7  N1=165.3  N2=95.7  N3=66.8
+multi-scale, random start 2 (E=3.4e-04 acc=0.59)  rw=0.516(0.004)  height=11.900(0.907)  links=189.633(8.656)  mins=10.383(1.279)  maxs=3.850(1.181)  bin0=0.500 n=182  bin1=0.499 n=155  bin2=0.498 n=47  N0=189.6  N1=131.7  N2=86.7  N3=66.7
+multi-scale, scatter start (E=3.2e-04 acc=0.45)  rw=0.516(0.004)  height=13.383(0.486)  links=182.967(5.118)  mins=9.250(1.410)  maxs=5.817(0.645)  bin0=0.500 n=186  bin1=0.499 n=148  bin2=0.500 n=36  N0=183.0  N1=139.2  N2=93.5  N3=72.9
+
+real	6m51.077s
+user	6m50.366s
+sys	0m0.012s
