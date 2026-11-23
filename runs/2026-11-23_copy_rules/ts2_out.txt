@@ -1,0 +1,38 @@
+== rule B eps=0.10 alpha=2, n=128000, 6 seeds: completed dwells in C and in V (births); censored dwells (run ended) not counted ==
+W= 10 switches= 562 | C: n=254 mean dwell=     919 | V: n=262 mean dwell=    1771 | D: n= 40 mean dwell=   475 | time share C/V/D 0.33/0.65/0.03
+W= 15 switches= 384 | C: n=160 mean dwell=    1399 | V: n=180 mean dwell=    2624 | D: n= 38 mean dwell=   550 | time share C/V/D 0.31/0.67/0.03
+W= 20 switches= 177 | C: n= 73 mean dwell=    2837 | V: n= 79 mean dwell=    5852 | D: n= 19 mean dwell=   584 | time share C/V/D 0.29/0.70/0.02
+W= 25 switches= 107 | C: n= 37 mean dwell=    3986 | V: n= 46 mean dwell=   10313 | D: n= 18 mean dwell=   883 | time share C/V/D 0.21/0.77/0.02
+W= 30 switches=  36 | C: n= 12 mean dwell=   18892 | V: n= 13 mean dwell=   20900 | D: n=  5 mean dwell=  2360 | time share C/V/D 0.36/0.63/0.02
+W= 35 switches=   9 | C: n=  0 mean dwell=     nan | V: n=  2 mean dwell=   52800 | D: n=  1 mean dwell=  1800 | time share C/V/D 0.24/0.76/0.00
+W= 40 switches=  10 | C: n=  1 mean dwell=   11400 | V: n=  2 mean dwell=   39600 | D: n=  1 mean dwell=  4600 | time share C/V/D 0.23/0.77/0.01
+W= 50 switches=   5 | C: n=  0 mean dwell=     nan | V: n=  0 mean dwell=     nan | D: n=  0 mean dwell=   nan | time share C/V/D 0.41/0.59/0.00
+
+== write tests, 20 seeds, n=32000: write V for P births at 8000, write C for P births at 20000. seeds with V majority at 16-20k; with C majority at 28-32k ==
+B W50_e0.10 P=   0: before write (4-8k) C majority 20, V  0 | after write 1: V majority  2/20 | after write 2: C majority 16/20
+B W50_e0.10 P=  10: before write (4-8k) C majority 20, V  0 | after write 1: V majority  3/20 | after write 2: C majority 14/20
+B W50_e0.10 P=  25: before write (4-8k) C majority 20, V  0 | after write 1: V majority 16/20 | after write 2: C majority  9/20
+B W50_e0.10 P=  50: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W50_e0.10 P= 100: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 19/20
+B W50_e0.10 P= 150: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 18/20
+B W50_e0.10 P= 200: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 18/20
+B W50_e0.10 P= 400: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 19/20
+B W50_e0.10 P= 800: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 18/20
+B W100_e0.05 P=   0: before write (4-8k) C majority 20, V  0 | after write 1: V majority  0/20 | after write 2: C majority 20/20
+B W100_e0.05 P=  10: before write (4-8k) C majority 20, V  0 | after write 1: V majority  0/20 | after write 2: C majority 20/20
+B W100_e0.05 P=  25: before write (4-8k) C majority 20, V  0 | after write 1: V majority  0/20 | after write 2: C majority 20/20
+B W100_e0.05 P=  50: before write (4-8k) C majority 20, V  0 | after write 1: V majority  2/20 | after write 2: C majority 19/20
+B W100_e0.05 P= 100: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.05 P= 150: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.05 P= 200: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.05 P= 400: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.05 P= 800: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.10 P=   0: before write (4-8k) C majority 20, V  0 | after write 1: V majority  0/20 | after write 2: C majority 20/20
+B W100_e0.10 P=  10: before write (4-8k) C majority 20, V  0 | after write 1: V majority  0/20 | after write 2: C majority 20/20
+B W100_e0.10 P=  25: before write (4-8k) C majority 20, V  0 | after write 1: V majority  1/20 | after write 2: C majority 19/20
+B W100_e0.10 P=  50: before write (4-8k) C majority 20, V  0 | after write 1: V majority 12/20 | after write 2: C majority 13/20
+B W100_e0.10 P= 100: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.10 P= 150: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.10 P= 200: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.10 P= 400: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
+B W100_e0.10 P= 800: before write (4-8k) C majority 20, V  0 | after write 1: V majority 20/20 | after write 2: C majority 20/20
