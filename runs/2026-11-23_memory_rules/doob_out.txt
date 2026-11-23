@@ -1,0 +1,12 @@
+n=24 first vs last block  liking=exp(+0.5 x diamonds in final pattern)  effective runs=    34855  corr(R_first,R_last)=+0.0137  shuffle sd=0.0047  unweighted=+0.0015
+n=24 first vs last block  liking=exp(+1 x diamonds in final pattern)  effective runs=      198  corr(R_first,R_last)=-0.0604  shuffle sd=0.0629  unweighted=+0.0015
+n=24 first vs last block  liking=exp(+2 x diamonds in final pattern)  effective runs=       11  corr(R_first,R_last)=-0.4357  shuffle sd=0.2645  unweighted=+0.0015
+n=24 first vs last block  liking=exp(+0.02 x related pairs in final pattern)  effective runs=   173306  corr(R_first,R_last)=-0.0006  shuffle sd=0.0026  unweighted=+0.0015
+n=24 first vs last block  liking=exp(+0.05 x related pairs in final pattern)  effective runs=    70075  corr(R_first,R_last)=-0.0047  shuffle sd=0.0045  unweighted=+0.0015
+n=24 first vs last block  liking=exp(-0.05 x related pairs in final pattern)  effective runs=   109837  corr(R_first,R_last)=+0.0079  shuffle sd=0.0032  unweighted=+0.0015
+n=200 first vs last block  liking=exp(+0.5 x diamonds in final pattern)  effective runs=      299  corr(R_first,R_last)=-0.0018  shuffle sd=0.0253  unweighted=+0.0004
+n=200 first vs last block  liking=exp(+1 x diamonds in final pattern)  effective runs=        2  corr(R_first,R_last)=+0.2744  shuffle sd=0.2645  unweighted=+0.0004
+n=200 first vs last block  liking=exp(+2 x diamonds in final pattern)  effective runs=        1  corr(R_first,R_last)=+0.6225  shuffle sd=0.5186  unweighted=+0.0004
+n=200 first vs last block  liking=exp(+0.0005 x related pairs in final pattern)  effective runs=    97223  corr(R_first,R_last)=+0.0004  shuffle sd=0.0031  unweighted=+0.0004
+n=200 first vs last block  liking=exp(+0.001 x related pairs in final pattern)  effective runs=    88829  corr(R_first,R_last)=+0.0004  shuffle sd=0.0036  unweighted=+0.0004
+n=200 first vs last block  liking=exp(-0.001 x related pairs in final pattern)  effective runs=    90704  corr(R_first,R_last)=+0.0003  shuffle sd=0.0035  unweighted=+0.0004

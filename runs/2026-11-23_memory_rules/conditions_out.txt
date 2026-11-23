@@ -1,0 +1,7 @@
+K2 (V1 family)                 cond2 broken in 0/23 patterns (first at None)   cond3 broken in 0/56 tests (first at size None)
+L label window W=2             cond2 broken in 1/17 patterns (first at (5, ['1/64', '3/64']))   cond3 broken in 0/1 tests (first at size None)
+H own-past height              cond2 broken in 9/23 patterns (first at (4, ['5/432', '1/54']))   cond3 broken in 32/56 tests (first at size (3,))
+M frontier q=1/2               cond2 broken in 9/23 patterns (first at (4, ['5/256', '5/192']))   cond3 broken in 49/56 tests (first at size (3,))
+N nearness q=1/2               cond2 broken in 9/23 patterns (first at (4, ['1/18', '1/12']))   cond3 broken in 44/56 tests (first at size (3,))
+C content attention q=9/10     cond2 broken in 9/23 patterns (first at (4, ['45209/8957952', '48545/4478976']))   cond3 broken in 52/56 tests (first at size (3,))
+U unbounded nearness q=1/10    cond2 broken in 8/23 patterns (first at (4, ['3/20', '1/6']))   cond3 broken in 23/56 tests (first at size (3,))

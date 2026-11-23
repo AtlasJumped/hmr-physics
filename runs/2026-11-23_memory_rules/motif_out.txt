@@ -1,0 +1,22 @@
+Persistence of the diamond motif: share of diamonds whose bottom is itself a diamond top ('stacked'), against the chance level = share of all thoughts that are diamond tops
+rule C K=2 q=0.9 n=2000: diamond tops per thought=0.0358  stacked share=0.184  ratio to chance=5.15  longest stack=4
+rule C K=2 q=0.9 n=32000: diamond tops per thought=0.0041  stacked share=0.131  ratio to chance=32.29  longest stack=4
+rule H K=2 q=0.5 n=2000: diamond tops per thought=0.0088  stacked share=0.034  ratio to chance=3.87  longest stack=2
+rule H K=2 q=0.5 n=32000: diamond tops per thought=0.0010  stacked share=0.019  ratio to chance=18.52  longest stack=2
+rule K K=2 q=0.5 n=2000: diamond tops per thought=0.0095  stacked share=0.042  ratio to chance=4.43  longest stack=2
+rule K K=2 q=0.5 n=32000: diamond tops per thought=0.0011  stacked share=0.022  ratio to chance=18.90  longest stack=2
+rule K K=5 q=0.5 n=2000: diamond tops per thought=0.0803  stacked share=0.169  ratio to chance=2.11  longest stack=6
+rule K K=5 q=0.5 n=32000: diamond tops per thought=0.0167  stacked share=0.082  ratio to chance=4.94  longest stack=6
+rule L K=2 q=0.5 n=2000: diamond tops per thought=0.0468  stacked share=0.056  ratio to chance=1.19  longest stack=4
+rule L K=2 q=0.5 n=32000: diamond tops per thought=0.0461  stacked share=0.041  ratio to chance=0.89  longest stack=4
+rule M K=2 q=0.5 n=2000: diamond tops per thought=0.0026  stacked share=0.000  ratio to chance=0.00  longest stack=1
+rule M K=2 q=0.5 n=32000: diamond tops per thought=0.0003  stacked share=0.000  ratio to chance=0.00  longest stack=1
+rule N K=2 q=0.5 n=2000: diamond tops per thought=0.4482  stacked share=0.459  ratio to chance=1.02  longest stack=5
+rule N K=2 q=0.5 n=32000: diamond tops per thought=0.4443  stacked share=0.457  ratio to chance=1.03  longest stack=8
+rule N K=2 q=0.9 n=2000: diamond tops per thought=0.7990  stacked share=0.772  ratio to chance=0.97  longest stack=6
+rule N K=2 q=0.9 n=32000: diamond tops per thought=0.8001  stacked share=0.817  ratio to chance=1.02  longest stack=9
+rule T K=2 q=0.9 n=2000: diamond tops per thought=0.0125  stacked share=0.056  ratio to chance=4.48  longest stack=2
+rule T K=2 q=0.9 n=32000: diamond tops per thought=0.0013  stacked share=0.042  ratio to chance=32.04  longest stack=2
+rule U K=2 q=0.1 n=2000: diamond tops per thought=0.2673  stacked share=0.296  ratio to chance=1.11  longest stack=4
+rule U K=2 q=0.1 n=32000: diamond tops per thought=0.3145  stacked share=0.457  ratio to chance=1.45  longest stack=6
+rule U K=2 q=0.2 n=2000: diamond tops per thought=0.6552  stacked share=0.702  ratio to chance=1.07  longest stack=6

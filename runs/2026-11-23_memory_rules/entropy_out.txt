@@ -1,0 +1,9 @@
+Choice entropy per birth (bits), births 4001-8000, mean over 5 seeds; V1 K2 reference = 2 log2(m). Deficit = bits of freedom given up per birth.
+rule K q=0.5: H=25.046 (sd 0.000)  deficit vs V1=+0.000 bits/birth
+rule L q=0.5: H=11.288 (sd 0.000)  deficit vs V1=+13.759 bits/birth
+rule H q=0.5: H=24.490 (sd 0.000)  deficit vs V1=+0.556 bits/birth
+rule M q=0.5: H=19.495 (sd 0.979)  deficit vs V1=+5.552 bits/birth
+rule N q=0.5: H=21.596 (sd 0.023)  deficit vs V1=+3.451 bits/birth
+rule N q=0.9: H=17.722 (sd 0.055)  deficit vs V1=+7.325 bits/birth
+rule U q=0.1: H=14.775 (sd 0.292)  deficit vs V1=+10.271 bits/birth
+rule U q=0.14: H=19.810 (sd 4.192)  deficit vs V1=+5.237 bits/birth

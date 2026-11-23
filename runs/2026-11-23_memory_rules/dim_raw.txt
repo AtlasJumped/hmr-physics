@@ -1,0 +1,1283 @@
+WHOLE rule=K K=2 q=0.5 W=50 n=500 seed=1 r=0.108465 dmm=3.9033 height=19 links=893 linkpar_last=1.860 mins=1 maxs=172 diamonds=11 tops=11 stacked=0 maxstack=1 fano=1.500 diam_per100=1.500
+INT rule=K K=2 q=0.5 n=500 seed=1 lo=16 cnt=200 r=0.47789 dmm=2.060
+INT rule=K K=2 q=0.5 n=500 seed=1 lo=32 cnt=200 r=0.42660 dmm=2.209
+INT rule=K K=2 q=0.5 n=500 seed=1 lo=64 cnt=5 r=0.35417 dmm=2.450
+WHOLE rule=K K=2 q=0.5 W=50 n=500 seed=2 r=0.116521 dmm=3.8178 height=22 links=893 linkpar_last=1.780 mins=1 maxs=163 diamonds=8 tops=8 stacked=0 maxstack=1 fano=1.000 diam_per100=1.000
+INT rule=K K=2 q=0.5 n=500 seed=2 lo=16 cnt=200 r=0.45229 dmm=2.133
+INT rule=K K=2 q=0.5 n=500 seed=2 lo=32 cnt=200 r=0.38476 dmm=2.343
+INT rule=K K=2 q=0.5 n=500 seed=2 lo=64 cnt=106 r=0.35861 dmm=2.434
+WHOLE rule=K K=2 q=0.5 W=50 n=500 seed=3 r=0.127359 dmm=3.7114 height=22 links=903 linkpar_last=1.920 mins=1 maxs=160 diamonds=16 tops=16 stacked=2 maxstack=2 fano=0.333 diam_per100=3.000
+INT rule=K K=2 q=0.5 n=500 seed=3 lo=16 cnt=200 r=0.46095 dmm=2.108
+INT rule=K K=2 q=0.5 n=500 seed=3 lo=32 cnt=200 r=0.38695 dmm=2.336
+INT rule=K K=2 q=0.5 n=500 seed=3 lo=64 cnt=200 r=0.37058 dmm=2.392
+WHOLE rule=K K=2 q=0.5 W=50 n=500 seed=4 r=0.115703 dmm=3.8262 height=23 links=886 linkpar_last=1.920 mins=1 maxs=159 diamonds=14 tops=14 stacked=0 maxstack=1 fano=1.500 diam_per100=1.500
+INT rule=K K=2 q=0.5 n=500 seed=4 lo=16 cnt=200 r=0.47410 dmm=2.071
+INT rule=K K=2 q=0.5 n=500 seed=4 lo=32 cnt=200 r=0.37500 dmm=2.376
+INT rule=K K=2 q=0.5 n=500 seed=4 lo=64 cnt=106 r=0.33861 dmm=2.507
+WHOLE rule=K K=2 q=0.5 W=50 n=500 seed=5 r=0.115030 dmm=3.8332 height=20 links=890 linkpar_last=1.920 mins=1 maxs=166 diamonds=15 tops=14 stacked=1 maxstack=2 fano=0.000 diam_per100=0.000
+INT rule=K K=2 q=0.5 n=500 seed=5 lo=16 cnt=200 r=0.49576 dmm=2.011
+INT rule=K K=2 q=0.5 n=500 seed=5 lo=32 cnt=200 r=0.41988 dmm=2.230
+INT rule=K K=2 q=0.5 n=500 seed=5 lo=64 cnt=43 r=0.38152 dmm=2.354
+WHOLE rule=K K=2 q=0.5 W=50 n=2000 seed=1 r=0.057168 dmm=4.6584 height=26 links=3770 linkpar_last=1.925 mins=1 maxs=654 diamonds=19 tops=19 stacked=0 maxstack=1 fano=0.733 diam_per100=0.600
+INT rule=K K=2 q=0.5 n=2000 seed=1 lo=16 cnt=200 r=0.44318 dmm=2.160
+INT rule=K K=2 q=0.5 n=2000 seed=1 lo=32 cnt=200 r=0.34166 dmm=2.496
+INT rule=K K=2 q=0.5 n=2000 seed=1 lo=64 cnt=200 r=0.28898 dmm=2.708
+INT rule=K K=2 q=0.5 n=2000 seed=1 lo=128 cnt=51 r=0.23922 dmm=2.944
+WHOLE rule=K K=2 q=0.5 W=50 n=2000 seed=2 r=0.060729 dmm=4.5878 height=28 links=3776 linkpar_last=1.930 mins=1 maxs=675 diamonds=16 tops=16 stacked=1 maxstack=2 fano=0.900 diam_per100=0.500
+INT rule=K K=2 q=0.5 n=2000 seed=2 lo=16 cnt=200 r=0.45044 dmm=2.138
+INT rule=K K=2 q=0.5 n=2000 seed=2 lo=32 cnt=200 r=0.33138 dmm=2.535
+INT rule=K K=2 q=0.5 n=2000 seed=2 lo=64 cnt=200 r=0.29211 dmm=2.694
+INT rule=K K=2 q=0.5 n=2000 seed=2 lo=128 cnt=58 r=0.25226 dmm=2.878
+WHOLE rule=K K=2 q=0.5 W=50 n=2000 seed=3 r=0.063406 dmm=4.5373 height=27 links=3788 linkpar_last=1.950 mins=1 maxs=643 diamonds=21 tops=21 stacked=2 maxstack=2 fano=0.800 diam_per100=0.200
+INT rule=K K=2 q=0.5 n=2000 seed=3 lo=16 cnt=200 r=0.45500 dmm=2.125
+INT rule=K K=2 q=0.5 n=2000 seed=3 lo=32 cnt=200 r=0.32794 dmm=2.548
+INT rule=K K=2 q=0.5 n=2000 seed=3 lo=64 cnt=200 r=0.29885 dmm=2.665
+INT rule=K K=2 q=0.5 n=2000 seed=3 lo=128 cnt=57 r=0.27488 dmm=2.771
+WHOLE rule=K K=2 q=0.5 W=50 n=2000 seed=4 r=0.060267 dmm=4.5967 height=27 links=3765 linkpar_last=1.925 mins=1 maxs=691 diamonds=19 tops=19 stacked=0 maxstack=1 fano=0.900 diam_per100=0.100
+INT rule=K K=2 q=0.5 n=2000 seed=4 lo=16 cnt=200 r=0.48330 dmm=2.045
+INT rule=K K=2 q=0.5 n=2000 seed=4 lo=32 cnt=200 r=0.33568 dmm=2.518
+INT rule=K K=2 q=0.5 n=2000 seed=4 lo=64 cnt=200 r=0.27943 dmm=2.750
+INT rule=K K=2 q=0.5 n=2000 seed=4 lo=128 cnt=35 r=0.25493 dmm=2.865
+WHOLE rule=K K=2 q=0.5 W=50 n=2000 seed=5 r=0.059242 dmm=4.6168 height=27 links=3773 linkpar_last=1.925 mins=1 maxs=660 diamonds=21 tops=20 stacked=1 maxstack=2 fano=1.367 diam_per100=0.300
+INT rule=K K=2 q=0.5 n=2000 seed=5 lo=16 cnt=200 r=0.47115 dmm=2.079
+INT rule=K K=2 q=0.5 n=2000 seed=5 lo=32 cnt=200 r=0.36941 dmm=2.396
+INT rule=K K=2 q=0.5 n=2000 seed=5 lo=64 cnt=200 r=0.31156 dmm=2.613
+INT rule=K K=2 q=0.5 n=2000 seed=5 lo=128 cnt=46 r=0.24675 dmm=2.905
+WHOLE rule=K K=2 q=0.5 W=50 n=8000 seed=1 r=0.029877 dmm=5.4104 height=33 links=15534 linkpar_last=1.969 mins=1 maxs=2628 diamonds=26 tops=26 stacked=0 maxstack=1 fano=0.925 diam_per100=0.075
+INT rule=K K=2 q=0.5 n=8000 seed=1 lo=16 cnt=200 r=0.49254 dmm=2.020
+INT rule=K K=2 q=0.5 n=8000 seed=1 lo=32 cnt=200 r=0.31678 dmm=2.592
+INT rule=K K=2 q=0.5 n=8000 seed=1 lo=64 cnt=200 r=0.23296 dmm=2.976
+INT rule=K K=2 q=0.5 n=8000 seed=1 lo=128 cnt=200 r=0.20190 dmm=3.153
+INT rule=K K=2 q=0.5 n=8000 seed=1 lo=256 cnt=21 r=0.16874 dmm=3.372
+WHOLE rule=K K=2 q=0.5 W=50 n=8000 seed=2 r=0.031136 dmm=5.3629 height=35 links=15529 linkpar_last=1.980 mins=1 maxs=2659 diamonds=25 tops=25 stacked=1 maxstack=2 fano=0.850 diam_per100=0.150
+INT rule=K K=2 q=0.5 n=8000 seed=2 lo=16 cnt=200 r=0.49093 dmm=2.024
+INT rule=K K=2 q=0.5 n=8000 seed=2 lo=32 cnt=200 r=0.31136 dmm=2.614
+INT rule=K K=2 q=0.5 n=8000 seed=2 lo=64 cnt=200 r=0.23312 dmm=2.976
+INT rule=K K=2 q=0.5 n=8000 seed=2 lo=128 cnt=200 r=0.21172 dmm=3.094
+INT rule=K K=2 q=0.5 n=8000 seed=2 lo=256 cnt=18 r=0.18224 dmm=3.278
+WHOLE rule=K K=2 q=0.5 W=50 n=8000 seed=3 r=0.032588 dmm=5.3104 height=34 links=15541 linkpar_last=1.976 mins=1 maxs=2645 diamonds=29 tops=29 stacked=2 maxstack=2 fano=1.183 diam_per100=0.150
+INT rule=K K=2 q=0.5 n=8000 seed=3 lo=16 cnt=200 r=0.48709 dmm=2.035
+INT rule=K K=2 q=0.5 n=8000 seed=3 lo=32 cnt=200 r=0.32701 dmm=2.552
+INT rule=K K=2 q=0.5 n=8000 seed=3 lo=64 cnt=200 r=0.23576 dmm=2.962
+INT rule=K K=2 q=0.5 n=8000 seed=3 lo=128 cnt=200 r=0.21966 dmm=3.049
+INT rule=K K=2 q=0.5 n=8000 seed=3 lo=256 cnt=22 r=0.21314 dmm=3.086
+WHOLE rule=K K=2 q=0.5 W=50 n=8000 seed=4 r=0.030657 dmm=5.3808 height=33 links=15535 linkpar_last=1.956 mins=1 maxs=2661 diamonds=31 tops=31 stacked=0 maxstack=1 fano=0.800 diam_per100=0.200
+INT rule=K K=2 q=0.5 n=8000 seed=4 lo=16 cnt=200 r=0.50877 dmm=1.977
+INT rule=K K=2 q=0.5 n=8000 seed=4 lo=32 cnt=200 r=0.33193 dmm=2.533
+INT rule=K K=2 q=0.5 n=8000 seed=4 lo=64 cnt=200 r=0.24265 dmm=2.926
+INT rule=K K=2 q=0.5 n=8000 seed=4 lo=128 cnt=200 r=0.20331 dmm=3.144
+INT rule=K K=2 q=0.5 n=8000 seed=4 lo=256 cnt=10 r=0.16937 dmm=3.367
+WHOLE rule=K K=2 q=0.5 W=50 n=8000 seed=5 r=0.030573 dmm=5.3839 height=35 links=15515 linkpar_last=1.969 mins=1 maxs=2672 diamonds=31 tops=30 stacked=1 maxstack=2 fano=1.682 diam_per100=0.175
+INT rule=K K=2 q=0.5 n=8000 seed=5 lo=16 cnt=200 r=0.48972 dmm=2.028
+INT rule=K K=2 q=0.5 n=8000 seed=5 lo=32 cnt=200 r=0.32877 dmm=2.545
+INT rule=K K=2 q=0.5 n=8000 seed=5 lo=64 cnt=200 r=0.24683 dmm=2.905
+INT rule=K K=2 q=0.5 n=8000 seed=5 lo=128 cnt=200 r=0.21058 dmm=3.101
+INT rule=K K=2 q=0.5 n=8000 seed=5 lo=256 cnt=28 r=0.18661 dmm=3.249
+WHOLE rule=K K=2 q=0.5 W=50 n=32000 seed=1 r=0.015360 dmm=6.1716 height=40 links=63051 linkpar_last=1.986 mins=1 maxs=10678 diamonds=32 tops=32 stacked=0 maxstack=1 fano=0.981 diam_per100=0.019
+INT rule=K K=2 q=0.5 n=32000 seed=1 lo=16 cnt=200 r=0.53807 dmm=1.902
+INT rule=K K=2 q=0.5 n=32000 seed=1 lo=32 cnt=200 r=0.33076 dmm=2.537
+INT rule=K K=2 q=0.5 n=32000 seed=1 lo=64 cnt=200 r=0.21215 dmm=3.092
+INT rule=K K=2 q=0.5 n=32000 seed=1 lo=128 cnt=200 r=0.15553 dmm=3.471
+INT rule=K K=2 q=0.5 n=32000 seed=1 lo=256 cnt=126 r=0.14293 dmm=3.573
+INT rule=K K=2 q=0.5 n=32000 seed=1 lo=512 cnt=11 r=0.13494 dmm=3.642
+WHOLE rule=K K=2 q=0.5 W=50 n=32000 seed=2 r=0.015693 dmm=6.1472 height=41 links=63035 linkpar_last=1.989 mins=1 maxs=10678 diamonds=34 tops=34 stacked=1 maxstack=2 fano=0.963 diam_per100=0.037
+INT rule=K K=2 q=0.5 n=32000 seed=2 lo=16 cnt=200 r=0.53558 dmm=1.908
+INT rule=K K=2 q=0.5 n=32000 seed=2 lo=32 cnt=200 r=0.33134 dmm=2.535
+INT rule=K K=2 q=0.5 n=32000 seed=2 lo=64 cnt=200 r=0.21412 dmm=3.081
+INT rule=K K=2 q=0.5 n=32000 seed=2 lo=128 cnt=200 r=0.16348 dmm=3.410
+INT rule=K K=2 q=0.5 n=32000 seed=2 lo=256 cnt=128 r=0.15094 dmm=3.507
+INT rule=K K=2 q=0.5 n=32000 seed=2 lo=512 cnt=6 r=0.12829 dmm=3.703
+WHOLE rule=K K=2 q=0.5 W=50 n=32000 seed=3 r=0.015994 dmm=6.1255 height=39 links=63003 linkpar_last=1.984 mins=1 maxs=10654 diamonds=41 tops=41 stacked=2 maxstack=2 fano=0.950 diam_per100=0.050
+INT rule=K K=2 q=0.5 n=32000 seed=3 lo=16 cnt=200 r=0.51959 dmm=1.949
+INT rule=K K=2 q=0.5 n=32000 seed=3 lo=32 cnt=200 r=0.32790 dmm=2.548
+INT rule=K K=2 q=0.5 n=32000 seed=3 lo=64 cnt=200 r=0.21705 dmm=3.064
+INT rule=K K=2 q=0.5 n=32000 seed=3 lo=128 cnt=200 r=0.16842 dmm=3.374
+INT rule=K K=2 q=0.5 n=32000 seed=3 lo=256 cnt=147 r=0.15504 dmm=3.474
+INT rule=K K=2 q=0.5 n=32000 seed=3 lo=512 cnt=8 r=0.15810 dmm=3.451
+WHOLE rule=K K=2 q=0.5 W=50 n=32000 seed=4 r=0.015371 dmm=6.1708 height=41 links=63054 linkpar_last=1.983 mins=1 maxs=10567 diamonds=36 tops=36 stacked=0 maxstack=1 fano=0.981 diam_per100=0.019
+INT rule=K K=2 q=0.5 n=32000 seed=4 lo=16 cnt=200 r=0.54994 dmm=1.872
+INT rule=K K=2 q=0.5 n=32000 seed=4 lo=32 cnt=200 r=0.34206 dmm=2.494
+INT rule=K K=2 q=0.5 n=32000 seed=4 lo=64 cnt=200 r=0.22164 dmm=3.038
+INT rule=K K=2 q=0.5 n=32000 seed=4 lo=128 cnt=200 r=0.16117 dmm=3.428
+INT rule=K K=2 q=0.5 n=32000 seed=4 lo=256 cnt=107 r=0.14653 dmm=3.543
+INT rule=K K=2 q=0.5 n=32000 seed=4 lo=512 cnt=7 r=0.15157 dmm=3.502
+WHOLE rule=K K=2 q=0.5 W=50 n=32000 seed=5 r=0.015605 dmm=6.1536 height=41 links=63019 linkpar_last=1.988 mins=1 maxs=10711 diamonds=42 tops=41 stacked=1 maxstack=2 fano=0.938 diam_per100=0.062
+INT rule=K K=2 q=0.5 n=32000 seed=5 lo=16 cnt=200 r=0.54216 dmm=1.891
+INT rule=K K=2 q=0.5 n=32000 seed=5 lo=32 cnt=200 r=0.32703 dmm=2.551
+INT rule=K K=2 q=0.5 n=32000 seed=5 lo=64 cnt=200 r=0.21425 dmm=3.080
+INT rule=K K=2 q=0.5 n=32000 seed=5 lo=128 cnt=200 r=0.16592 dmm=3.392
+INT rule=K K=2 q=0.5 n=32000 seed=5 lo=256 cnt=165 r=0.14703 dmm=3.539
+INT rule=K K=2 q=0.5 n=32000 seed=5 lo=512 cnt=8 r=0.14039 dmm=3.594
+WHOLE rule=K K=5 q=0.5 W=50 n=500 seed=1 r=0.447575 dmm=2.1465 height=40 links=1370 linkpar_last=2.960 mins=1 maxs=81 diamonds=96 tops=76 stacked=20 maxstack=3 fano=0.333 diam_per100=12.000
+INT rule=K K=5 q=0.5 n=500 seed=1 lo=16 cnt=200 r=0.42341 dmm=2.219
+INT rule=K K=5 q=0.5 n=500 seed=1 lo=32 cnt=200 r=0.35016 dmm=2.464
+INT rule=K K=5 q=0.5 n=500 seed=1 lo=64 cnt=200 r=0.36519 dmm=2.411
+INT rule=K K=5 q=0.5 n=500 seed=1 lo=128 cnt=200 r=0.46569 dmm=2.094
+INT rule=K K=5 q=0.5 n=500 seed=1 lo=256 cnt=17 r=0.52164 dmm=1.943
+WHOLE rule=K K=5 q=0.5 W=50 n=500 seed=2 r=0.459519 dmm=2.1119 height=38 links=1339 linkpar_last=2.940 mins=1 maxs=86 diamonds=77 tops=72 stacked=16 maxstack=6 fano=0.100 diam_per100=10.000
+INT rule=K K=5 q=0.5 n=500 seed=2 lo=16 cnt=200 r=0.40646 dmm=2.272
+INT rule=K K=5 q=0.5 n=500 seed=2 lo=32 cnt=200 r=0.32055 dmm=2.577
+INT rule=K K=5 q=0.5 n=500 seed=2 lo=64 cnt=200 r=0.35450 dmm=2.449
+INT rule=K K=5 q=0.5 n=500 seed=2 lo=128 cnt=200 r=0.46517 dmm=2.096
+INT rule=K K=5 q=0.5 n=500 seed=2 lo=256 cnt=7 r=0.54762 dmm=1.878
+WHOLE rule=K K=5 q=0.5 W=50 n=500 seed=3 r=0.457547 dmm=2.1176 height=41 links=1387 linkpar_last=3.000 mins=1 maxs=84 diamonds=85 tops=71 stacked=17 maxstack=4 fano=1.389 diam_per100=18.000
+INT rule=K K=5 q=0.5 n=500 seed=3 lo=16 cnt=200 r=0.38608 dmm=2.339
+INT rule=K K=5 q=0.5 n=500 seed=3 lo=32 cnt=200 r=0.32899 dmm=2.544
+INT rule=K K=5 q=0.5 n=500 seed=3 lo=64 cnt=200 r=0.36704 dmm=2.404
+INT rule=K K=5 q=0.5 n=500 seed=3 lo=128 cnt=200 r=0.46507 dmm=2.096
+INT rule=K K=5 q=0.5 n=500 seed=3 lo=256 cnt=22 r=0.54521 dmm=1.884
+WHOLE rule=K K=5 q=0.5 W=50 n=500 seed=4 r=0.432649 dmm=2.1910 height=37 links=1364 linkpar_last=3.260 mins=1 maxs=88 diamonds=76 tops=67 stacked=16 maxstack=3 fano=0.155 diam_per100=14.500
+INT rule=K K=5 q=0.5 n=500 seed=4 lo=16 cnt=200 r=0.39658 dmm=2.304
+INT rule=K K=5 q=0.5 n=500 seed=4 lo=32 cnt=200 r=0.30656 dmm=2.633
+INT rule=K K=5 q=0.5 n=500 seed=4 lo=64 cnt=200 r=0.36690 dmm=2.405
+INT rule=K K=5 q=0.5 n=500 seed=4 lo=128 cnt=200 r=0.46199 dmm=2.105
+WHOLE rule=K K=5 q=0.5 W=50 n=500 seed=5 r=0.436096 dmm=2.1806 height=39 links=1418 linkpar_last=3.160 mins=1 maxs=82 diamonds=84 tops=72 stacked=13 maxstack=5 fano=2.778 diam_per100=9.000
+INT rule=K K=5 q=0.5 n=500 seed=5 lo=16 cnt=200 r=0.37743 dmm=2.368
+INT rule=K K=5 q=0.5 n=500 seed=5 lo=32 cnt=200 r=0.31351 dmm=2.605
+INT rule=K K=5 q=0.5 n=500 seed=5 lo=64 cnt=200 r=0.37187 dmm=2.387
+INT rule=K K=5 q=0.5 n=500 seed=5 lo=128 cnt=200 r=0.43539 dmm=2.183
+INT rule=K K=5 q=0.5 n=500 seed=5 lo=256 cnt=132 r=0.50392 dmm=1.990
+WHOLE rule=K K=5 q=0.5 W=50 n=2000 seed=1 r=0.341671 dmm=2.4957 height=57 links=6435 linkpar_last=3.550 mins=1 maxs=337 diamonds=193 tops=170 stacked=32 maxstack=3 fano=0.936 diam_per100=5.600
+INT rule=K K=5 q=0.5 n=2000 seed=1 lo=16 cnt=200 r=0.40569 dmm=2.275
+INT rule=K K=5 q=0.5 n=2000 seed=1 lo=32 cnt=200 r=0.28511 dmm=2.725
+INT rule=K K=5 q=0.5 n=2000 seed=1 lo=64 cnt=200 r=0.21151 dmm=3.096
+INT rule=K K=5 q=0.5 n=2000 seed=1 lo=128 cnt=200 r=0.20075 dmm=3.160
+INT rule=K K=5 q=0.5 n=2000 seed=1 lo=256 cnt=200 r=0.29623 dmm=2.677
+INT rule=K K=5 q=0.5 n=2000 seed=1 lo=512 cnt=200 r=0.36671 dmm=2.405
+WHOLE rule=K K=5 q=0.5 W=50 n=2000 seed=2 r=0.331738 dmm=2.5333 height=54 links=6423 linkpar_last=3.495 mins=1 maxs=332 diamonds=161 tops=152 stacked=30 maxstack=6 fano=0.560 diam_per100=4.300
+INT rule=K K=5 q=0.5 n=2000 seed=2 lo=16 cnt=200 r=0.40843 dmm=2.266
+INT rule=K K=5 q=0.5 n=2000 seed=2 lo=32 cnt=200 r=0.27070 dmm=2.790
+INT rule=K K=5 q=0.5 n=2000 seed=2 lo=64 cnt=200 r=0.20305 dmm=3.146
+INT rule=K K=5 q=0.5 n=2000 seed=2 lo=128 cnt=200 r=0.19864 dmm=3.173
+INT rule=K K=5 q=0.5 n=2000 seed=2 lo=256 cnt=200 r=0.29546 dmm=2.680
+INT rule=K K=5 q=0.5 n=2000 seed=2 lo=512 cnt=200 r=0.37146 dmm=2.389
+WHOLE rule=K K=5 q=0.5 W=50 n=2000 seed=3 r=0.342564 dmm=2.4924 height=57 links=6519 linkpar_last=3.465 mins=1 maxs=328 diamonds=187 tops=165 stacked=25 maxstack=5 fano=0.441 diam_per100=5.800
+INT rule=K K=5 q=0.5 n=2000 seed=3 lo=16 cnt=200 r=0.42064 dmm=2.228
+INT rule=K K=5 q=0.5 n=2000 seed=3 lo=32 cnt=200 r=0.28770 dmm=2.713
+INT rule=K K=5 q=0.5 n=2000 seed=3 lo=64 cnt=200 r=0.21513 dmm=3.075
+INT rule=K K=5 q=0.5 n=2000 seed=3 lo=128 cnt=200 r=0.20839 dmm=3.114
+INT rule=K K=5 q=0.5 n=2000 seed=3 lo=256 cnt=200 r=0.31157 dmm=2.613
+INT rule=K K=5 q=0.5 n=2000 seed=3 lo=512 cnt=200 r=0.37190 dmm=2.387
+WHOLE rule=K K=5 q=0.5 W=50 n=2000 seed=4 r=0.330215 dmm=2.5391 height=54 links=6506 linkpar_last=3.595 mins=1 maxs=329 diamonds=158 tops=149 stacked=25 maxstack=3 fano=0.895 diam_per100=4.200
+INT rule=K K=5 q=0.5 n=2000 seed=4 lo=16 cnt=200 r=0.40032 dmm=2.292
+INT rule=K K=5 q=0.5 n=2000 seed=4 lo=32 cnt=200 r=0.28036 dmm=2.746
+INT rule=K K=5 q=0.5 n=2000 seed=4 lo=64 cnt=200 r=0.20874 dmm=3.112
+INT rule=K K=5 q=0.5 n=2000 seed=4 lo=128 cnt=200 r=0.20380 dmm=3.141
+INT rule=K K=5 q=0.5 n=2000 seed=4 lo=256 cnt=200 r=0.29355 dmm=2.688
+INT rule=K K=5 q=0.5 n=2000 seed=4 lo=512 cnt=200 r=0.36246 dmm=2.420
+WHOLE rule=K K=5 q=0.5 W=50 n=2000 seed=5 r=0.341328 dmm=2.4970 height=54 links=6488 linkpar_last=3.595 mins=1 maxs=345 diamonds=183 tops=167 stacked=24 maxstack=5 fano=0.971 diam_per100=5.600
+INT rule=K K=5 q=0.5 n=2000 seed=5 lo=16 cnt=200 r=0.43105 dmm=2.196
+INT rule=K K=5 q=0.5 n=2000 seed=5 lo=32 cnt=200 r=0.28787 dmm=2.713
+INT rule=K K=5 q=0.5 n=2000 seed=5 lo=64 cnt=200 r=0.21433 dmm=3.079
+INT rule=K K=5 q=0.5 n=2000 seed=5 lo=128 cnt=200 r=0.19205 dmm=3.214
+INT rule=K K=5 q=0.5 n=2000 seed=5 lo=256 cnt=200 r=0.28827 dmm=2.711
+INT rule=K K=5 q=0.5 n=2000 seed=5 lo=512 cnt=200 r=0.37674 dmm=2.371
+WHOLE rule=K K=5 q=0.5 W=50 n=8000 seed=1 r=0.249684 dmm=2.8905 height=71 links=29416 linkpar_last=3.960 mins=1 maxs=1364 diamonds=347 tops=322 stacked=43 maxstack=3 fano=1.045 diam_per100=1.875
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=16 cnt=200 r=0.43107 dmm=2.196
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=32 cnt=200 r=0.26879 dmm=2.799
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=64 cnt=200 r=0.17687 dmm=3.315
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=128 cnt=200 r=0.12425 dmm=3.741
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=256 cnt=200 r=0.10337 dmm=3.961
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=512 cnt=200 r=0.14782 dmm=3.532
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=1024 cnt=200 r=0.25848 dmm=2.847
+INT rule=K K=5 q=0.5 n=8000 seed=1 lo=2048 cnt=122 r=0.31182 dmm=2.612
+WHOLE rule=K K=5 q=0.5 W=50 n=8000 seed=2 r=0.248978 dmm=2.8940 height=67 links=29372 linkpar_last=3.953 mins=1 maxs=1357 diamonds=314 tops=303 stacked=40 maxstack=6 fano=1.308 diam_per100=2.175
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=16 cnt=200 r=0.43854 dmm=2.173
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=32 cnt=200 r=0.28017 dmm=2.747
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=64 cnt=200 r=0.18353 dmm=3.270
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=128 cnt=200 r=0.12163 dmm=3.767
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=256 cnt=200 r=0.10095 dmm=3.989
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=512 cnt=200 r=0.13446 dmm=3.646
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=1024 cnt=200 r=0.24800 dmm=2.899
+INT rule=K K=5 q=0.5 n=8000 seed=2 lo=2048 cnt=101 r=0.30806 dmm=2.627
+WHOLE rule=K K=5 q=0.5 W=50 n=8000 seed=3 r=0.256799 dmm=2.8555 height=76 links=29140 linkpar_last=3.828 mins=1 maxs=1351 diamonds=325 tops=300 stacked=31 maxstack=5 fano=0.858 diam_per100=1.875
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=16 cnt=200 r=0.44156 dmm=2.164
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=32 cnt=200 r=0.27661 dmm=2.763
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=64 cnt=200 r=0.18001 dmm=3.293
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=128 cnt=200 r=0.12394 dmm=3.744
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=256 cnt=200 r=0.10220 dmm=3.974
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=512 cnt=200 r=0.14320 dmm=3.570
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=1024 cnt=200 r=0.23777 dmm=2.951
+INT rule=K K=5 q=0.5 n=8000 seed=3 lo=2048 cnt=200 r=0.31180 dmm=2.612
+WHOLE rule=K K=5 q=0.5 W=50 n=8000 seed=4 r=0.256024 dmm=2.8593 height=70 links=29245 linkpar_last=3.935 mins=1 maxs=1317 diamonds=315 tops=306 stacked=40 maxstack=3 fano=0.805 diam_per100=2.075
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=16 cnt=200 r=0.43744 dmm=2.177
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=32 cnt=200 r=0.27593 dmm=2.766
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=64 cnt=200 r=0.17772 dmm=3.309
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=128 cnt=200 r=0.12110 dmm=3.772
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=256 cnt=200 r=0.09886 dmm=4.014
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=512 cnt=200 r=0.14010 dmm=3.597
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=1024 cnt=200 r=0.24153 dmm=2.932
+INT rule=K K=5 q=0.5 n=8000 seed=4 lo=2048 cnt=200 r=0.28637 dmm=2.719
+WHOLE rule=K K=5 q=0.5 W=50 n=8000 seed=5 r=0.255057 dmm=2.8640 height=74 links=29342 linkpar_last=3.934 mins=1 maxs=1320 diamonds=335 tops=317 stacked=36 maxstack=5 fano=1.045 diam_per100=2.225
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=16 cnt=200 r=0.44124 dmm=2.165
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=32 cnt=200 r=0.27763 dmm=2.758
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=64 cnt=200 r=0.18187 dmm=3.281
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=128 cnt=200 r=0.12664 dmm=3.718
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=256 cnt=200 r=0.10515 dmm=3.940
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=512 cnt=200 r=0.14295 dmm=3.572
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=1024 cnt=200 r=0.24217 dmm=2.928
+INT rule=K K=5 q=0.5 n=8000 seed=5 lo=2048 cnt=200 r=0.30117 dmm=2.656
+WHOLE rule=K K=5 q=0.5 W=50 n=32000 seed=1 r=0.189120 dmm=3.2329 height=89 links=128006 linkpar_last=4.206 mins=1 maxs=5230 diamonds=602 tops=576 stacked=53 maxstack=3 fano=1.054 diam_per100=0.825
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=16 cnt=200 r=0.47793 dmm=2.060
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=32 cnt=200 r=0.29289 dmm=2.691
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=64 cnt=200 r=0.17585 dmm=3.322
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=128 cnt=200 r=0.11140 dmm=3.871
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=256 cnt=200 r=0.07330 dmm=4.367
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=512 cnt=200 r=0.05323 dmm=4.742
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=1024 cnt=200 r=0.05450 dmm=4.714
+INT rule=K K=5 q=0.5 n=32000 seed=1 lo=2048 cnt=200 r=0.11173 dmm=3.868
+WHOLE rule=K K=5 q=0.5 W=50 n=32000 seed=2 r=0.187652 dmm=3.2424 height=88 links=127993 linkpar_last=4.210 mins=1 maxs=5320 diamonds=525 tops=512 stacked=43 maxstack=6 fano=0.727 diam_per100=0.744
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=16 cnt=200 r=0.46363 dmm=2.100
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=32 cnt=200 r=0.27860 dmm=2.754
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=64 cnt=200 r=0.17527 dmm=3.326
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=128 cnt=200 r=0.11058 dmm=3.880
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=256 cnt=200 r=0.07238 dmm=4.382
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=512 cnt=200 r=0.05216 dmm=4.765
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=1024 cnt=200 r=0.05595 dmm=4.683
+INT rule=K K=5 q=0.5 n=32000 seed=2 lo=2048 cnt=200 r=0.11794 dmm=3.803
+WHOLE rule=K K=5 q=0.5 W=50 n=32000 seed=3 r=0.192990 dmm=3.2081 height=90 links=127429 linkpar_last=4.211 mins=1 maxs=5338 diamonds=560 tops=532 stacked=33 maxstack=5 fano=1.183 diam_per100=0.794
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=16 cnt=200 r=0.48424 dmm=2.043
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=32 cnt=200 r=0.29012 dmm=2.703
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=64 cnt=200 r=0.17596 dmm=3.321
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=128 cnt=200 r=0.11415 dmm=3.842
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=256 cnt=200 r=0.07378 dmm=4.359
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=512 cnt=200 r=0.05356 dmm=4.734
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=1024 cnt=200 r=0.04998 dmm=4.815
+INT rule=K K=5 q=0.5 n=32000 seed=3 lo=2048 cnt=200 r=0.11912 dmm=3.791
+WHOLE rule=K K=5 q=0.5 W=50 n=32000 seed=4 r=0.195986 dmm=3.1892 height=88 links=126989 linkpar_last=4.165 mins=1 maxs=5356 diamonds=526 tops=515 stacked=45 maxstack=4 fano=1.072 diam_per100=0.794
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=16 cnt=200 r=0.48467 dmm=2.041
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=32 cnt=200 r=0.29025 dmm=2.702
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=64 cnt=200 r=0.18375 dmm=3.268
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=128 cnt=200 r=0.11508 dmm=3.833
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=256 cnt=200 r=0.07352 dmm=4.364
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=512 cnt=200 r=0.05332 dmm=4.740
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=1024 cnt=200 r=0.05409 dmm=4.723
+INT rule=K K=5 q=0.5 n=32000 seed=4 lo=2048 cnt=200 r=0.10716 dmm=3.918
+WHOLE rule=K K=5 q=0.5 W=50 n=32000 seed=5 r=0.192252 dmm=3.2128 height=91 links=127580 linkpar_last=4.195 mins=1 maxs=5330 diamonds=553 tops=529 stacked=45 maxstack=5 fano=1.141 diam_per100=0.731
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=16 cnt=200 r=0.47764 dmm=2.061
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=32 cnt=200 r=0.28260 dmm=2.736
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=64 cnt=200 r=0.17941 dmm=3.297
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=128 cnt=200 r=0.11297 dmm=3.855
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=256 cnt=200 r=0.07510 dmm=4.339
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=512 cnt=200 r=0.05393 dmm=4.726
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=1024 cnt=200 r=0.05933 dmm=4.615
+INT rule=K K=5 q=0.5 n=32000 seed=5 lo=2048 cnt=200 r=0.12405 dmm=3.743
+WHOLE rule=L K=2 q=0.5 W=50 n=500 seed=1 r=0.560882 dmm=1.8454 height=46 links=916 linkpar_last=1.860 mins=1 maxs=86 diamonds=19 tops=19 stacked=1 maxstack=2 fano=0.250 diam_per100=4.000
+INT rule=L K=2 q=0.5 n=500 seed=1 lo=16 cnt=200 r=0.49264 dmm=2.020
+INT rule=L K=2 q=0.5 n=500 seed=1 lo=32 cnt=200 r=0.40153 dmm=2.288
+INT rule=L K=2 q=0.5 n=500 seed=1 lo=64 cnt=200 r=0.39249 dmm=2.318
+INT rule=L K=2 q=0.5 n=500 seed=1 lo=128 cnt=200 r=0.47754 dmm=2.061
+INT rule=L K=2 q=0.5 n=500 seed=1 lo=256 cnt=200 r=0.61100 dmm=1.728
+WHOLE rule=L K=2 q=0.5 W=50 n=500 seed=2 r=0.549868 dmm=1.8723 height=45 links=925 linkpar_last=1.860 mins=1 maxs=78 diamonds=30 tops=30 stacked=1 maxstack=2 fano=0.800 diam_per100=5.000
+INT rule=L K=2 q=0.5 n=500 seed=2 lo=16 cnt=200 r=0.47566 dmm=2.066
+INT rule=L K=2 q=0.5 n=500 seed=2 lo=32 cnt=200 r=0.37003 dmm=2.394
+INT rule=L K=2 q=0.5 n=500 seed=2 lo=64 cnt=200 r=0.36299 dmm=2.418
+INT rule=L K=2 q=0.5 n=500 seed=2 lo=128 cnt=200 r=0.44312 dmm=2.160
+INT rule=L K=2 q=0.5 n=500 seed=2 lo=256 cnt=200 r=0.56725 dmm=1.830
+WHOLE rule=L K=2 q=0.5 W=50 n=500 seed=3 r=0.567142 dmm=1.8303 height=40 links=932 linkpar_last=1.880 mins=1 maxs=81 diamonds=25 tops=25 stacked=5 maxstack=4 fano=0.643 diam_per100=3.500
+INT rule=L K=2 q=0.5 n=500 seed=3 lo=16 cnt=200 r=0.47260 dmm=2.075
+INT rule=L K=2 q=0.5 n=500 seed=3 lo=32 cnt=200 r=0.40117 dmm=2.289
+INT rule=L K=2 q=0.5 n=500 seed=3 lo=64 cnt=200 r=0.38377 dmm=2.347
+INT rule=L K=2 q=0.5 n=500 seed=3 lo=128 cnt=200 r=0.46093 dmm=2.108
+INT rule=L K=2 q=0.5 n=500 seed=3 lo=256 cnt=200 r=0.58889 dmm=1.779
+WHOLE rule=L K=2 q=0.5 W=50 n=500 seed=4 r=0.600016 dmm=1.7533 height=50 links=924 linkpar_last=1.920 mins=1 maxs=70 diamonds=20 tops=20 stacked=0 maxstack=1 fano=1.000 diam_per100=4.000
+INT rule=L K=2 q=0.5 n=500 seed=4 lo=16 cnt=200 r=0.52860 dmm=1.926
+INT rule=L K=2 q=0.5 n=500 seed=4 lo=32 cnt=200 r=0.42475 dmm=2.215
+INT rule=L K=2 q=0.5 n=500 seed=4 lo=64 cnt=200 r=0.41059 dmm=2.259
+INT rule=L K=2 q=0.5 n=500 seed=4 lo=128 cnt=200 r=0.48826 dmm=2.032
+INT rule=L K=2 q=0.5 n=500 seed=4 lo=256 cnt=200 r=0.60594 dmm=1.740
+WHOLE rule=L K=2 q=0.5 W=50 n=500 seed=5 r=0.607150 dmm=1.7370 height=52 links=926 linkpar_last=1.900 mins=1 maxs=75 diamonds=25 tops=25 stacked=0 maxstack=1 fano=0.100 diam_per100=2.500
+INT rule=L K=2 q=0.5 n=500 seed=5 lo=16 cnt=200 r=0.49933 dmm=2.002
+INT rule=L K=2 q=0.5 n=500 seed=5 lo=32 cnt=200 r=0.42034 dmm=2.229
+INT rule=L K=2 q=0.5 n=500 seed=5 lo=64 cnt=200 r=0.41564 dmm=2.243
+INT rule=L K=2 q=0.5 n=500 seed=5 lo=128 cnt=200 r=0.49969 dmm=2.001
+INT rule=L K=2 q=0.5 n=500 seed=5 lo=256 cnt=200 r=0.62553 dmm=1.696
+WHOLE rule=L K=2 q=0.5 W=50 n=2000 seed=1 r=0.727288 dmm=1.4833 height=170 links=3751 linkpar_last=1.900 mins=1 maxs=298 diamonds=85 tops=85 stacked=5 maxstack=2 fano=1.161 diam_per100=4.900
+INT rule=L K=2 q=0.5 n=2000 seed=1 lo=16 cnt=200 r=0.52428 dmm=1.937
+INT rule=L K=2 q=0.5 n=2000 seed=1 lo=32 cnt=200 r=0.43036 dmm=2.198
+INT rule=L K=2 q=0.5 n=2000 seed=1 lo=64 cnt=200 r=0.41535 dmm=2.244
+INT rule=L K=2 q=0.5 n=2000 seed=1 lo=128 cnt=200 r=0.51415 dmm=1.963
+INT rule=L K=2 q=0.5 n=2000 seed=1 lo=256 cnt=200 r=0.67856 dmm=1.582
+INT rule=L K=2 q=0.5 n=2000 seed=1 lo=512 cnt=200 r=0.81256 dmm=1.322
+INT rule=L K=2 q=0.5 n=2000 seed=1 lo=1024 cnt=200 r=0.87995 dmm=1.202
+WHOLE rule=L K=2 q=0.5 W=50 n=2000 seed=2 r=0.748450 dmm=1.4420 height=168 links=3751 linkpar_last=1.865 mins=1 maxs=291 diamonds=94 tops=93 stacked=5 maxstack=2 fano=0.811 diam_per100=4.700
+INT rule=L K=2 q=0.5 n=2000 seed=2 lo=16 cnt=200 r=0.51190 dmm=1.969
+INT rule=L K=2 q=0.5 n=2000 seed=2 lo=32 cnt=200 r=0.41855 dmm=2.234
+INT rule=L K=2 q=0.5 n=2000 seed=2 lo=64 cnt=200 r=0.41949 dmm=2.231
+INT rule=L K=2 q=0.5 n=2000 seed=2 lo=128 cnt=200 r=0.52763 dmm=1.928
+INT rule=L K=2 q=0.5 n=2000 seed=2 lo=256 cnt=200 r=0.69954 dmm=1.539
+INT rule=L K=2 q=0.5 n=2000 seed=2 lo=512 cnt=200 r=0.81707 dmm=1.313
+INT rule=L K=2 q=0.5 n=2000 seed=2 lo=1024 cnt=200 r=0.88141 dmm=1.199
+WHOLE rule=L K=2 q=0.5 W=50 n=2000 seed=3 r=0.734220 dmm=1.4697 height=161 links=3792 linkpar_last=1.885 mins=1 maxs=289 diamonds=101 tops=101 stacked=8 maxstack=4 fano=1.533 diam_per100=4.800
+INT rule=L K=2 q=0.5 n=2000 seed=3 lo=16 cnt=200 r=0.49447 dmm=2.015
+INT rule=L K=2 q=0.5 n=2000 seed=3 lo=32 cnt=200 r=0.41663 dmm=2.240
+INT rule=L K=2 q=0.5 n=2000 seed=3 lo=64 cnt=200 r=0.41138 dmm=2.257
+INT rule=L K=2 q=0.5 n=2000 seed=3 lo=128 cnt=200 r=0.52932 dmm=1.924
+INT rule=L K=2 q=0.5 n=2000 seed=3 lo=256 cnt=200 r=0.69315 dmm=1.552
+INT rule=L K=2 q=0.5 n=2000 seed=3 lo=512 cnt=200 r=0.82197 dmm=1.304
+INT rule=L K=2 q=0.5 n=2000 seed=3 lo=1024 cnt=200 r=0.88489 dmm=1.193
+WHOLE rule=L K=2 q=0.5 W=50 n=2000 seed=4 r=0.763774 dmm=1.4126 height=167 links=3777 linkpar_last=1.910 mins=1 maxs=256 diamonds=96 tops=95 stacked=3 maxstack=2 fano=0.526 diam_per100=5.400
+INT rule=L K=2 q=0.5 n=2000 seed=4 lo=16 cnt=200 r=0.50955 dmm=1.975
+INT rule=L K=2 q=0.5 n=2000 seed=4 lo=32 cnt=200 r=0.42030 dmm=2.229
+INT rule=L K=2 q=0.5 n=2000 seed=4 lo=64 cnt=200 r=0.40162 dmm=2.288
+INT rule=L K=2 q=0.5 n=2000 seed=4 lo=128 cnt=200 r=0.51079 dmm=1.971
+INT rule=L K=2 q=0.5 n=2000 seed=4 lo=256 cnt=200 r=0.68998 dmm=1.558
+INT rule=L K=2 q=0.5 n=2000 seed=4 lo=512 cnt=200 r=0.82216 dmm=1.304
+INT rule=L K=2 q=0.5 n=2000 seed=4 lo=1024 cnt=200 r=0.88408 dmm=1.194
+WHOLE rule=L K=2 q=0.5 W=50 n=2000 seed=5 r=0.738182 dmm=1.4619 height=174 links=3754 linkpar_last=1.910 mins=1 maxs=289 diamonds=95 tops=94 stacked=5 maxstack=2 fano=0.610 diam_per100=4.200
+INT rule=L K=2 q=0.5 n=2000 seed=5 lo=16 cnt=200 r=0.51840 dmm=1.952
+INT rule=L K=2 q=0.5 n=2000 seed=5 lo=32 cnt=200 r=0.42801 dmm=2.205
+INT rule=L K=2 q=0.5 n=2000 seed=5 lo=64 cnt=200 r=0.42445 dmm=2.216
+INT rule=L K=2 q=0.5 n=2000 seed=5 lo=128 cnt=200 r=0.52451 dmm=1.936
+INT rule=L K=2 q=0.5 n=2000 seed=5 lo=256 cnt=200 r=0.69218 dmm=1.554
+INT rule=L K=2 q=0.5 n=2000 seed=5 lo=512 cnt=200 r=0.82078 dmm=1.307
+INT rule=L K=2 q=0.5 n=2000 seed=5 lo=1024 cnt=200 r=0.88657 dmm=1.190
+WHOLE rule=L K=2 q=0.5 W=50 n=8000 seed=1 r=0.785230 dmm=1.3721 height=660 links=15123 linkpar_last=1.891 mins=1 maxs=1041 diamonds=333 tops=333 stacked=16 maxstack=2 fano=1.115 diam_per100=4.150
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=16 cnt=200 r=0.51303 dmm=1.966
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=32 cnt=200 r=0.42258 dmm=2.222
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=64 cnt=200 r=0.41271 dmm=2.253
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=128 cnt=200 r=0.50776 dmm=1.979
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=256 cnt=200 r=0.68148 dmm=1.576
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=512 cnt=200 r=0.82192 dmm=1.305
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=1024 cnt=200 r=0.90596 dmm=1.157
+INT rule=L K=2 q=0.5 n=8000 seed=1 lo=2048 cnt=200 r=0.95135 dmm=1.080
+WHOLE rule=L K=2 q=0.5 W=50 n=8000 seed=2 r=0.776612 dmm=1.3882 height=650 links=15141 linkpar_last=1.906 mins=1 maxs=1155 diamonds=359 tops=356 stacked=19 maxstack=2 fano=1.002 diam_per100=4.200
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=16 cnt=200 r=0.50345 dmm=1.991
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=32 cnt=200 r=0.42285 dmm=2.221
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=64 cnt=200 r=0.41289 dmm=2.252
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=128 cnt=200 r=0.53494 dmm=1.909
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=256 cnt=200 r=0.70277 dmm=1.532
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=512 cnt=200 r=0.83353 dmm=1.284
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=1024 cnt=200 r=0.91470 dmm=1.142
+INT rule=L K=2 q=0.5 n=8000 seed=2 lo=2048 cnt=200 r=0.95336 dmm=1.077
+WHOLE rule=L K=2 q=0.5 W=50 n=8000 seed=3 r=0.780643 dmm=1.3807 height=640 links=15250 linkpar_last=1.905 mins=1 maxs=1069 diamonds=379 tops=377 stacked=15 maxstack=4 fano=1.059 diam_per100=4.375
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=16 cnt=200 r=0.50644 dmm=1.983
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=32 cnt=200 r=0.40868 dmm=2.265
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=64 cnt=200 r=0.40892 dmm=2.265
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=128 cnt=200 r=0.50706 dmm=1.981
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=256 cnt=200 r=0.68944 dmm=1.560
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=512 cnt=200 r=0.82643 dmm=1.296
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=1024 cnt=200 r=0.91051 dmm=1.149
+INT rule=L K=2 q=0.5 n=8000 seed=3 lo=2048 cnt=200 r=0.95271 dmm=1.078
+WHOLE rule=L K=2 q=0.5 W=50 n=8000 seed=4 r=0.797103 dmm=1.3500 height=654 links=15196 linkpar_last=1.886 mins=1 maxs=1067 diamonds=369 tops=366 stacked=19 maxstack=4 fano=1.365 diam_per100=4.575
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=16 cnt=200 r=0.52702 dmm=1.930
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=32 cnt=200 r=0.42325 dmm=2.220
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=64 cnt=200 r=0.41345 dmm=2.250
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=128 cnt=200 r=0.52402 dmm=1.937
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=256 cnt=200 r=0.69541 dmm=1.547
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=512 cnt=200 r=0.82850 dmm=1.293
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=1024 cnt=200 r=0.91066 dmm=1.149
+INT rule=L K=2 q=0.5 n=8000 seed=4 lo=2048 cnt=200 r=0.95366 dmm=1.076
+WHOLE rule=L K=2 q=0.5 W=50 n=8000 seed=5 r=0.788198 dmm=1.3665 height=658 links=15131 linkpar_last=1.889 mins=1 maxs=1055 diamonds=360 tops=357 stacked=17 maxstack=3 fano=0.921 diam_per100=4.300
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=16 cnt=200 r=0.49696 dmm=2.008
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=32 cnt=200 r=0.41859 dmm=2.234
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=64 cnt=200 r=0.40166 dmm=2.288
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=128 cnt=200 r=0.50449 dmm=1.988
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=256 cnt=200 r=0.68564 dmm=1.567
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=512 cnt=200 r=0.82519 dmm=1.299
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=1024 cnt=200 r=0.90644 dmm=1.156
+INT rule=L K=2 q=0.5 n=8000 seed=5 lo=2048 cnt=200 r=0.95161 dmm=1.080
+WHOLE rule=L K=2 q=0.5 W=50 n=32000 seed=1 r=0.797077 dmm=1.3500 height=2594 links=60759 linkpar_last=1.901 mins=1 maxs=4254 diamonds=1454 tops=1439 stacked=59 maxstack=3 fano=1.260 diam_per100=4.513
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=16 cnt=200 r=0.51159 dmm=1.969
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=32 cnt=200 r=0.40865 dmm=2.265
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=64 cnt=200 r=0.41712 dmm=2.239
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=128 cnt=200 r=0.52154 dmm=1.944
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=256 cnt=200 r=0.68977 dmm=1.559
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=512 cnt=200 r=0.82729 dmm=1.295
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=1024 cnt=200 r=0.91151 dmm=1.147
+INT rule=L K=2 q=0.5 n=32000 seed=1 lo=2048 cnt=200 r=0.95389 dmm=1.076
+WHOLE rule=L K=2 q=0.5 W=50 n=32000 seed=2 r=0.787276 dmm=1.3682 height=2583 links=60854 linkpar_last=1.917 mins=1 maxs=4363 diamonds=1527 tops=1520 stacked=68 maxstack=3 fano=1.070 diam_per100=4.763
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=16 cnt=200 r=0.52444 dmm=1.936
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=32 cnt=200 r=0.43373 dmm=2.188
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=64 cnt=200 r=0.41197 dmm=2.255
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=128 cnt=200 r=0.51968 dmm=1.948
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=256 cnt=200 r=0.68084 dmm=1.577
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=512 cnt=200 r=0.82336 dmm=1.302
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=1024 cnt=200 r=0.90878 dmm=1.152
+INT rule=L K=2 q=0.5 n=32000 seed=2 lo=2048 cnt=200 r=0.95462 dmm=1.075
+WHOLE rule=L K=2 q=0.5 W=50 n=32000 seed=3 r=0.795461 dmm=1.3530 height=2550 links=60918 linkpar_last=1.907 mins=1 maxs=4291 diamonds=1522 tops=1510 stacked=61 maxstack=4 fano=1.081 diam_per100=4.869
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=16 cnt=200 r=0.49634 dmm=2.010
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=32 cnt=200 r=0.41387 dmm=2.249
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=64 cnt=200 r=0.41489 dmm=2.246
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=128 cnt=200 r=0.52005 dmm=1.947
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=256 cnt=200 r=0.69319 dmm=1.552
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=512 cnt=200 r=0.82962 dmm=1.291
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=1024 cnt=200 r=0.90969 dmm=1.150
+INT rule=L K=2 q=0.5 n=32000 seed=3 lo=2048 cnt=200 r=0.95357 dmm=1.076
+WHOLE rule=L K=2 q=0.5 W=50 n=32000 seed=4 r=0.803297 dmm=1.3385 height=2593 links=60818 linkpar_last=1.903 mins=1 maxs=4218 diamonds=1458 tops=1448 stacked=49 maxstack=4 fano=0.892 diam_per100=4.550
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=16 cnt=200 r=0.51333 dmm=1.965
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=32 cnt=200 r=0.41927 dmm=2.232
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=64 cnt=200 r=0.40323 dmm=2.283
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=128 cnt=200 r=0.50693 dmm=1.982
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=256 cnt=200 r=0.67889 dmm=1.581
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=512 cnt=200 r=0.82395 dmm=1.301
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=1024 cnt=200 r=0.90659 dmm=1.156
+INT rule=L K=2 q=0.5 n=32000 seed=4 lo=2048 cnt=200 r=0.95218 dmm=1.079
+WHOLE rule=L K=2 q=0.5 W=50 n=32000 seed=5 r=0.793831 dmm=1.3560 height=2573 links=60859 linkpar_last=1.906 mins=1 maxs=4251 diamonds=1475 tops=1467 stacked=65 maxstack=3 fano=0.851 diam_per100=4.719
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=16 cnt=200 r=0.51211 dmm=1.968
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=32 cnt=200 r=0.42347 dmm=2.219
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=64 cnt=200 r=0.40865 dmm=2.265
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=128 cnt=200 r=0.51796 dmm=1.953
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=256 cnt=200 r=0.69202 dmm=1.554
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=512 cnt=200 r=0.82938 dmm=1.291
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=1024 cnt=200 r=0.90914 dmm=1.151
+INT rule=L K=2 q=0.5 n=32000 seed=5 lo=2048 cnt=200 r=0.95482 dmm=1.074
+WHOLE rule=H K=2 q=0.5 W=50 n=500 seed=1 r=0.254645 dmm=2.8660 height=32 links=888 linkpar_last=1.920 mins=1 maxs=132 diamonds=8 tops=8 stacked=0 maxstack=1 fano=0.500 diam_per100=0.500
+INT rule=H K=2 q=0.5 n=500 seed=1 lo=16 cnt=200 r=0.55098 dmm=1.870
+INT rule=H K=2 q=0.5 n=500 seed=1 lo=32 cnt=200 r=0.44354 dmm=2.158
+INT rule=H K=2 q=0.5 n=500 seed=1 lo=64 cnt=200 r=0.44524 dmm=2.153
+INT rule=H K=2 q=0.5 n=500 seed=1 lo=128 cnt=200 r=0.44489 dmm=2.154
+WHOLE rule=H K=2 q=0.5 W=50 n=500 seed=2 r=0.272786 dmm=2.7801 height=33 links=905 linkpar_last=1.880 mins=1 maxs=130 diamonds=12 tops=12 stacked=0 maxstack=1 fano=0.000 diam_per100=2.000
+INT rule=H K=2 q=0.5 n=500 seed=2 lo=16 cnt=200 r=0.51951 dmm=1.949
+INT rule=H K=2 q=0.5 n=500 seed=2 lo=32 cnt=200 r=0.42787 dmm=2.206
+INT rule=H K=2 q=0.5 n=500 seed=2 lo=64 cnt=200 r=0.43307 dmm=2.190
+INT rule=H K=2 q=0.5 n=500 seed=2 lo=128 cnt=200 r=0.43905 dmm=2.172
+WHOLE rule=H K=2 q=0.5 W=50 n=500 seed=3 r=0.280673 dmm=2.7444 height=32 links=899 linkpar_last=1.860 mins=1 maxs=130 diamonds=12 tops=12 stacked=1 maxstack=2 fano=1.500 diam_per100=1.500
+INT rule=H K=2 q=0.5 n=500 seed=3 lo=16 cnt=200 r=0.51351 dmm=1.964
+INT rule=H K=2 q=0.5 n=500 seed=3 lo=32 cnt=200 r=0.42699 dmm=2.208
+INT rule=H K=2 q=0.5 n=500 seed=3 lo=64 cnt=200 r=0.43610 dmm=2.181
+INT rule=H K=2 q=0.5 n=500 seed=3 lo=128 cnt=200 r=0.46536 dmm=2.095
+WHOLE rule=H K=2 q=0.5 W=50 n=500 seed=4 r=0.263880 dmm=2.8216 height=34 links=884 linkpar_last=1.800 mins=1 maxs=139 diamonds=12 tops=12 stacked=2 maxstack=2 fano=0.167 diam_per100=1.500
+INT rule=H K=2 q=0.5 n=500 seed=4 lo=16 cnt=200 r=0.56610 dmm=1.833
+INT rule=H K=2 q=0.5 n=500 seed=4 lo=32 cnt=200 r=0.49261 dmm=2.020
+INT rule=H K=2 q=0.5 n=500 seed=4 lo=64 cnt=200 r=0.46228 dmm=2.104
+INT rule=H K=2 q=0.5 n=500 seed=4 lo=128 cnt=200 r=0.45895 dmm=2.114
+WHOLE rule=H K=2 q=0.5 W=50 n=500 seed=5 r=0.225876 dmm=3.0147 height=31 links=907 linkpar_last=1.940 mins=1 maxs=124 diamonds=8 tops=8 stacked=0 maxstack=1 fano=1.000 diam_per100=1.000
+INT rule=H K=2 q=0.5 n=500 seed=5 lo=16 cnt=200 r=0.48286 dmm=2.046
+INT rule=H K=2 q=0.5 n=500 seed=5 lo=32 cnt=200 r=0.42642 dmm=2.210
+INT rule=H K=2 q=0.5 n=500 seed=5 lo=64 cnt=200 r=0.45247 dmm=2.132
+WHOLE rule=H K=2 q=0.5 W=50 n=2000 seed=1 r=0.164112 dmm=3.4056 height=43 links=3791 linkpar_last=1.945 mins=1 maxs=546 diamonds=15 tops=15 stacked=0 maxstack=1 fano=1.367 diam_per100=0.300
+INT rule=H K=2 q=0.5 n=2000 seed=1 lo=16 cnt=200 r=0.54480 dmm=1.885
+INT rule=H K=2 q=0.5 n=2000 seed=1 lo=32 cnt=200 r=0.37493 dmm=2.377
+INT rule=H K=2 q=0.5 n=2000 seed=1 lo=64 cnt=200 r=0.30150 dmm=2.654
+INT rule=H K=2 q=0.5 n=2000 seed=1 lo=128 cnt=200 r=0.31916 dmm=2.582
+INT rule=H K=2 q=0.5 n=2000 seed=1 lo=256 cnt=200 r=0.34432 dmm=2.486
+WHOLE rule=H K=2 q=0.5 W=50 n=2000 seed=2 r=0.172582 dmm=3.3444 height=46 links=3781 linkpar_last=1.940 mins=1 maxs=519 diamonds=14 tops=14 stacked=0 maxstack=1 fano=0.900 diam_per100=0.100
+INT rule=H K=2 q=0.5 n=2000 seed=2 lo=16 cnt=200 r=0.54596 dmm=1.882
+INT rule=H K=2 q=0.5 n=2000 seed=2 lo=32 cnt=200 r=0.39664 dmm=2.304
+INT rule=H K=2 q=0.5 n=2000 seed=2 lo=64 cnt=200 r=0.29862 dmm=2.666
+INT rule=H K=2 q=0.5 n=2000 seed=2 lo=128 cnt=200 r=0.32384 dmm=2.564
+INT rule=H K=2 q=0.5 n=2000 seed=2 lo=256 cnt=200 r=0.34662 dmm=2.477
+WHOLE rule=H K=2 q=0.5 W=50 n=2000 seed=3 r=0.171124 dmm=3.3548 height=44 links=3803 linkpar_last=1.940 mins=1 maxs=517 diamonds=22 tops=22 stacked=1 maxstack=2 fano=0.733 diam_per100=0.600
+INT rule=H K=2 q=0.5 n=2000 seed=3 lo=16 cnt=200 r=0.56033 dmm=1.847
+INT rule=H K=2 q=0.5 n=2000 seed=3 lo=32 cnt=200 r=0.37484 dmm=2.377
+INT rule=H K=2 q=0.5 n=2000 seed=3 lo=64 cnt=200 r=0.29950 dmm=2.663
+INT rule=H K=2 q=0.5 n=2000 seed=3 lo=128 cnt=200 r=0.32063 dmm=2.577
+INT rule=H K=2 q=0.5 n=2000 seed=3 lo=256 cnt=200 r=0.35530 dmm=2.446
+WHOLE rule=H K=2 q=0.5 W=50 n=2000 seed=4 r=0.162124 dmm=3.4204 height=46 links=3785 linkpar_last=1.965 mins=1 maxs=550 diamonds=16 tops=16 stacked=2 maxstack=2 fano=0.800 diam_per100=0.200
+INT rule=H K=2 q=0.5 n=2000 seed=4 lo=16 cnt=200 r=0.52508 dmm=1.934
+INT rule=H K=2 q=0.5 n=2000 seed=4 lo=32 cnt=200 r=0.38361 dmm=2.347
+INT rule=H K=2 q=0.5 n=2000 seed=4 lo=64 cnt=200 r=0.31043 dmm=2.617
+INT rule=H K=2 q=0.5 n=2000 seed=4 lo=128 cnt=200 r=0.34448 dmm=2.485
+INT rule=H K=2 q=0.5 n=2000 seed=4 lo=256 cnt=200 r=0.36691 dmm=2.405
+WHOLE rule=H K=2 q=0.5 W=50 n=2000 seed=5 r=0.163189 dmm=3.4124 height=44 links=3815 linkpar_last=1.985 mins=1 maxs=537 diamonds=21 tops=21 stacked=0 maxstack=1 fano=0.767 diam_per100=0.900
+INT rule=H K=2 q=0.5 n=2000 seed=5 lo=16 cnt=200 r=0.54211 dmm=1.892
+INT rule=H K=2 q=0.5 n=2000 seed=5 lo=32 cnt=200 r=0.35056 dmm=2.463
+INT rule=H K=2 q=0.5 n=2000 seed=5 lo=64 cnt=200 r=0.26637 dmm=2.810
+INT rule=H K=2 q=0.5 n=2000 seed=5 lo=128 cnt=200 r=0.27795 dmm=2.757
+INT rule=H K=2 q=0.5 n=2000 seed=5 lo=256 cnt=200 r=0.29790 dmm=2.670
+WHOLE rule=H K=2 q=0.5 W=50 n=8000 seed=1 r=0.104804 dmm=3.9442 height=56 links=15628 linkpar_last=1.974 mins=1 maxs=2091 diamonds=19 tops=19 stacked=0 maxstack=1 fano=1.950 diam_per100=0.050
+INT rule=H K=2 q=0.5 n=8000 seed=1 lo=16 cnt=200 r=0.56171 dmm=1.843
+INT rule=H K=2 q=0.5 n=8000 seed=1 lo=32 cnt=200 r=0.37344 dmm=2.382
+INT rule=H K=2 q=0.5 n=8000 seed=1 lo=64 cnt=200 r=0.24944 dmm=2.892
+INT rule=H K=2 q=0.5 n=8000 seed=1 lo=128 cnt=200 r=0.19050 dmm=3.224
+INT rule=H K=2 q=0.5 n=8000 seed=1 lo=256 cnt=200 r=0.21339 dmm=3.085
+INT rule=H K=2 q=0.5 n=8000 seed=1 lo=512 cnt=200 r=0.24043 dmm=2.937
+INT rule=H K=2 q=0.5 n=8000 seed=1 lo=1024 cnt=1 r=0.27236 dmm=2.782
+WHOLE rule=H K=2 q=0.5 W=50 n=8000 seed=2 r=0.105350 dmm=3.9380 height=60 links=15604 linkpar_last=1.979 mins=1 maxs=2171 diamonds=21 tops=21 stacked=0 maxstack=1 fano=0.925 diam_per100=0.075
+INT rule=H K=2 q=0.5 n=8000 seed=2 lo=16 cnt=200 r=0.57343 dmm=1.815
+INT rule=H K=2 q=0.5 n=8000 seed=2 lo=32 cnt=200 r=0.35833 dmm=2.435
+INT rule=H K=2 q=0.5 n=8000 seed=2 lo=64 cnt=200 r=0.24049 dmm=2.937
+INT rule=H K=2 q=0.5 n=8000 seed=2 lo=128 cnt=200 r=0.19046 dmm=3.224
+INT rule=H K=2 q=0.5 n=8000 seed=2 lo=256 cnt=200 r=0.20506 dmm=3.134
+INT rule=H K=2 q=0.5 n=8000 seed=2 lo=512 cnt=200 r=0.24881 dmm=2.895
+INT rule=H K=2 q=0.5 n=8000 seed=2 lo=1024 cnt=3 r=0.25502 dmm=2.864
+WHOLE rule=H K=2 q=0.5 W=50 n=8000 seed=3 r=0.108218 dmm=3.9060 height=57 links=15609 linkpar_last=1.968 mins=1 maxs=2138 diamonds=28 tops=28 stacked=1 maxstack=2 fano=0.925 diam_per100=0.075
+INT rule=H K=2 q=0.5 n=8000 seed=3 lo=16 cnt=200 r=0.56599 dmm=1.833
+INT rule=H K=2 q=0.5 n=8000 seed=3 lo=32 cnt=200 r=0.36160 dmm=2.423
+INT rule=H K=2 q=0.5 n=8000 seed=3 lo=64 cnt=200 r=0.24877 dmm=2.895
+INT rule=H K=2 q=0.5 n=8000 seed=3 lo=128 cnt=200 r=0.18424 dmm=3.265
+INT rule=H K=2 q=0.5 n=8000 seed=3 lo=256 cnt=200 r=0.19993 dmm=3.165
+INT rule=H K=2 q=0.5 n=8000 seed=3 lo=512 cnt=200 r=0.23371 dmm=2.972
+INT rule=H K=2 q=0.5 n=8000 seed=3 lo=1024 cnt=5 r=0.24641 dmm=2.907
+WHOLE rule=H K=2 q=0.5 W=50 n=8000 seed=4 r=0.105567 dmm=3.9356 height=60 links=15588 linkpar_last=1.971 mins=1 maxs=2120 diamonds=26 tops=26 stacked=2 maxstack=2 fano=1.682 diam_per100=0.175
+INT rule=H K=2 q=0.5 n=8000 seed=4 lo=16 cnt=200 r=0.56769 dmm=1.829
+INT rule=H K=2 q=0.5 n=8000 seed=4 lo=32 cnt=200 r=0.36613 dmm=2.407
+INT rule=H K=2 q=0.5 n=8000 seed=4 lo=64 cnt=200 r=0.24576 dmm=2.910
+INT rule=H K=2 q=0.5 n=8000 seed=4 lo=128 cnt=200 r=0.18701 dmm=3.247
+INT rule=H K=2 q=0.5 n=8000 seed=4 lo=256 cnt=200 r=0.20371 dmm=3.142
+INT rule=H K=2 q=0.5 n=8000 seed=4 lo=512 cnt=200 r=0.22947 dmm=2.995
+INT rule=H K=2 q=0.5 n=8000 seed=4 lo=1024 cnt=4 r=0.24914 dmm=2.893
+WHOLE rule=H K=2 q=0.5 W=50 n=8000 seed=5 r=0.106931 dmm=3.9203 height=60 links=15622 linkpar_last=1.986 mins=1 maxs=2128 diamonds=31 tops=31 stacked=0 maxstack=1 fano=0.900 diam_per100=0.100
+INT rule=H K=2 q=0.5 n=8000 seed=5 lo=16 cnt=200 r=0.57204 dmm=1.819
+INT rule=H K=2 q=0.5 n=8000 seed=5 lo=32 cnt=200 r=0.38574 dmm=2.340
+INT rule=H K=2 q=0.5 n=8000 seed=5 lo=64 cnt=200 r=0.25725 dmm=2.853
+INT rule=H K=2 q=0.5 n=8000 seed=5 lo=128 cnt=200 r=0.18074 dmm=3.288
+INT rule=H K=2 q=0.5 n=8000 seed=5 lo=256 cnt=200 r=0.18359 dmm=3.269
+INT rule=H K=2 q=0.5 n=8000 seed=5 lo=512 cnt=200 r=0.22840 dmm=3.001
+WHOLE rule=H K=2 q=0.5 W=50 n=32000 seed=1 r=0.066750 dmm=4.4771 height=71 links=63298 linkpar_last=1.988 mins=1 maxs=8681 diamonds=23 tops=23 stacked=0 maxstack=1 fano=0.988 diam_per100=0.013
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=16 cnt=200 r=0.60873 dmm=1.733
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=32 cnt=200 r=0.38429 dmm=2.345
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=64 cnt=200 r=0.24507 dmm=2.914
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=128 cnt=200 r=0.15744 dmm=3.456
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=256 cnt=200 r=0.11173 dmm=3.868
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=512 cnt=200 r=0.10841 dmm=3.904
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=1024 cnt=200 r=0.15308 dmm=3.490
+INT rule=H K=2 q=0.5 n=32000 seed=1 lo=2048 cnt=46 r=0.18278 dmm=3.275
+WHOLE rule=H K=2 q=0.5 W=50 n=32000 seed=2 r=0.065694 dmm=4.4957 height=75 links=63280 linkpar_last=1.988 mins=1 maxs=8789 diamonds=30 tops=30 stacked=0 maxstack=1 fano=0.981 diam_per100=0.019
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=16 cnt=200 r=0.60594 dmm=1.740
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=32 cnt=200 r=0.37457 dmm=2.378
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=64 cnt=200 r=0.24915 dmm=2.893
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=128 cnt=200 r=0.16038 dmm=3.433
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=256 cnt=200 r=0.11124 dmm=3.873
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=512 cnt=200 r=0.11070 dmm=3.879
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=1024 cnt=200 r=0.16318 dmm=3.412
+INT rule=H K=2 q=0.5 n=32000 seed=2 lo=2048 cnt=31 r=0.20123 dmm=3.157
+WHOLE rule=H K=2 q=0.5 W=50 n=32000 seed=3 r=0.069474 dmm=4.4301 height=73 links=63292 linkpar_last=1.989 mins=1 maxs=8599 diamonds=35 tops=35 stacked=1 maxstack=2 fano=0.981 diam_per100=0.019
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=16 cnt=200 r=0.62244 dmm=1.703
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=32 cnt=200 r=0.38458 dmm=2.344
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=64 cnt=200 r=0.25564 dmm=2.861
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=128 cnt=200 r=0.16339 dmm=3.411
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=256 cnt=200 r=0.11088 dmm=3.877
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=512 cnt=200 r=0.11070 dmm=3.879
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=1024 cnt=200 r=0.15510 dmm=3.474
+INT rule=H K=2 q=0.5 n=32000 seed=3 lo=2048 cnt=88 r=0.17038 dmm=3.360
+WHOLE rule=H K=2 q=0.5 W=50 n=32000 seed=4 r=0.069992 dmm=4.4214 height=74 links=63250 linkpar_last=1.989 mins=1 maxs=8720 diamonds=34 tops=34 stacked=2 maxstack=2 fano=0.988 diam_per100=0.013
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=16 cnt=200 r=0.61762 dmm=1.713
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=32 cnt=200 r=0.38684 dmm=2.336
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=64 cnt=200 r=0.25001 dmm=2.889
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=128 cnt=200 r=0.15909 dmm=3.443
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=256 cnt=200 r=0.10882 dmm=3.899
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=512 cnt=200 r=0.10792 dmm=3.909
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=1024 cnt=200 r=0.15108 dmm=3.506
+INT rule=H K=2 q=0.5 n=32000 seed=4 lo=2048 cnt=74 r=0.17301 dmm=3.341
+WHOLE rule=H K=2 q=0.5 W=50 n=32000 seed=5 r=0.067228 dmm=4.4687 height=73 links=63286 linkpar_last=1.990 mins=1 maxs=8705 diamonds=39 tops=39 stacked=0 maxstack=1 fano=0.981 diam_per100=0.019
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=16 cnt=200 r=0.61379 dmm=1.722
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=32 cnt=200 r=0.39325 dmm=2.315
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=64 cnt=200 r=0.24252 dmm=2.927
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=128 cnt=200 r=0.16143 dmm=3.426
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=256 cnt=200 r=0.11496 dmm=3.834
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=512 cnt=200 r=0.10760 dmm=3.913
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=1024 cnt=200 r=0.14984 dmm=3.516
+INT rule=H K=2 q=0.5 n=32000 seed=5 lo=2048 cnt=38 r=0.16890 dmm=3.371
+WHOLE rule=M K=2 q=0.5 W=50 n=500 seed=1 r=0.632697 dmm=1.6800 height=131 links=725 linkpar_last=1.540 mins=1 maxs=15 diamonds=5 tops=5 stacked=0 maxstack=1 fano=0.500 diam_per100=0.500
+INT rule=M K=2 q=0.5 n=500 seed=1 lo=16 cnt=200 r=0.83111 dmm=1.288
+INT rule=M K=2 q=0.5 n=500 seed=1 lo=32 cnt=200 r=0.67809 dmm=1.583
+INT rule=M K=2 q=0.5 n=500 seed=1 lo=64 cnt=200 r=0.63510 dmm=1.675
+INT rule=M K=2 q=0.5 n=500 seed=1 lo=128 cnt=200 r=0.62462 dmm=1.698
+INT rule=M K=2 q=0.5 n=500 seed=1 lo=256 cnt=200 r=0.63496 dmm=1.675
+WHOLE rule=M K=2 q=0.5 W=50 n=500 seed=2 r=0.652842 dmm=1.6363 height=111 links=715 linkpar_last=1.500 mins=1 maxs=6 diamonds=2 tops=2 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=500 seed=2 lo=16 cnt=200 r=0.80755 dmm=1.331
+INT rule=M K=2 q=0.5 n=500 seed=2 lo=32 cnt=200 r=0.66462 dmm=1.611
+INT rule=M K=2 q=0.5 n=500 seed=2 lo=64 cnt=200 r=0.61640 dmm=1.716
+INT rule=M K=2 q=0.5 n=500 seed=2 lo=128 cnt=200 r=0.64470 dmm=1.654
+INT rule=M K=2 q=0.5 n=500 seed=2 lo=256 cnt=200 r=0.61625 dmm=1.716
+WHOLE rule=M K=2 q=0.5 W=50 n=500 seed=3 r=0.540409 dmm=1.8958 height=89 links=757 linkpar_last=1.620 mins=1 maxs=17 diamonds=1 tops=1 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=500 seed=3 lo=16 cnt=200 r=0.74715 dmm=1.445
+INT rule=M K=2 q=0.5 n=500 seed=3 lo=32 cnt=200 r=0.56377 dmm=1.838
+INT rule=M K=2 q=0.5 n=500 seed=3 lo=64 cnt=200 r=0.49712 dmm=2.008
+INT rule=M K=2 q=0.5 n=500 seed=3 lo=128 cnt=200 r=0.51504 dmm=1.960
+INT rule=M K=2 q=0.5 n=500 seed=3 lo=256 cnt=200 r=0.52403 dmm=1.937
+WHOLE rule=M K=2 q=0.5 W=50 n=500 seed=4 r=0.676232 dmm=1.5869 height=123 links=694 linkpar_last=1.480 mins=1 maxs=13 diamonds=6 tops=5 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=500 seed=4 lo=16 cnt=200 r=0.81748 dmm=1.313
+INT rule=M K=2 q=0.5 n=500 seed=4 lo=32 cnt=200 r=0.67492 dmm=1.590
+INT rule=M K=2 q=0.5 n=500 seed=4 lo=64 cnt=200 r=0.63895 dmm=1.666
+INT rule=M K=2 q=0.5 n=500 seed=4 lo=128 cnt=200 r=0.65208 dmm=1.638
+INT rule=M K=2 q=0.5 n=500 seed=4 lo=256 cnt=200 r=0.68349 dmm=1.572
+WHOLE rule=M K=2 q=0.5 W=50 n=500 seed=5 r=0.652032 dmm=1.6380 height=105 links=720 linkpar_last=1.440 mins=1 maxs=16 diamonds=3 tops=3 stacked=0 maxstack=1 fano=1.000 diam_per100=1.000
+INT rule=M K=2 q=0.5 n=500 seed=5 lo=16 cnt=200 r=0.81453 dmm=1.318
+INT rule=M K=2 q=0.5 n=500 seed=5 lo=32 cnt=200 r=0.64252 dmm=1.659
+INT rule=M K=2 q=0.5 n=500 seed=5 lo=64 cnt=200 r=0.54635 dmm=1.881
+INT rule=M K=2 q=0.5 n=500 seed=5 lo=128 cnt=200 r=0.53053 dmm=1.921
+INT rule=M K=2 q=0.5 n=500 seed=5 lo=256 cnt=200 r=0.61468 dmm=1.720
+WHOLE rule=M K=2 q=0.5 W=50 n=2000 seed=1 r=0.639518 dmm=1.6651 height=287 links=2939 linkpar_last=1.485 mins=1 maxs=24 diamonds=6 tops=6 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=2000 seed=1 lo=16 cnt=200 r=0.91466 dmm=1.142
+INT rule=M K=2 q=0.5 n=2000 seed=1 lo=32 cnt=200 r=0.74022 dmm=1.458
+INT rule=M K=2 q=0.5 n=2000 seed=1 lo=64 cnt=200 r=0.61664 dmm=1.716
+INT rule=M K=2 q=0.5 n=2000 seed=1 lo=128 cnt=200 r=0.53886 dmm=1.900
+INT rule=M K=2 q=0.5 n=2000 seed=1 lo=256 cnt=200 r=0.53504 dmm=1.909
+INT rule=M K=2 q=0.5 n=2000 seed=1 lo=512 cnt=200 r=0.58185 dmm=1.795
+INT rule=M K=2 q=0.5 n=2000 seed=1 lo=1024 cnt=200 r=0.63080 dmm=1.684
+WHOLE rule=M K=2 q=0.5 W=50 n=2000 seed=2 r=0.614111 dmm=1.7213 height=266 links=2975 linkpar_last=1.525 mins=1 maxs=11 diamonds=3 tops=3 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=2000 seed=2 lo=16 cnt=200 r=0.93715 dmm=1.104
+INT rule=M K=2 q=0.5 n=2000 seed=2 lo=32 cnt=200 r=0.81128 dmm=1.324
+INT rule=M K=2 q=0.5 n=2000 seed=2 lo=64 cnt=200 r=0.68906 dmm=1.560
+INT rule=M K=2 q=0.5 n=2000 seed=2 lo=128 cnt=200 r=0.55359 dmm=1.863
+INT rule=M K=2 q=0.5 n=2000 seed=2 lo=256 cnt=200 r=0.47287 dmm=2.074
+INT rule=M K=2 q=0.5 n=2000 seed=2 lo=512 cnt=200 r=0.52615 dmm=1.932
+INT rule=M K=2 q=0.5 n=2000 seed=2 lo=1024 cnt=200 r=0.58303 dmm=1.793
+WHOLE rule=M K=2 q=0.5 W=50 n=2000 seed=3 r=0.567420 dmm=1.8297 height=182 links=3132 linkpar_last=1.540 mins=1 maxs=19 diamonds=4 tops=4 stacked=0 maxstack=1 fano=0.900 diam_per100=0.100
+INT rule=M K=2 q=0.5 n=2000 seed=3 lo=16 cnt=200 r=0.89216 dmm=1.180
+INT rule=M K=2 q=0.5 n=2000 seed=3 lo=32 cnt=200 r=0.67515 dmm=1.589
+INT rule=M K=2 q=0.5 n=2000 seed=3 lo=64 cnt=200 r=0.49448 dmm=2.015
+INT rule=M K=2 q=0.5 n=2000 seed=3 lo=128 cnt=200 r=0.38753 dmm=2.334
+INT rule=M K=2 q=0.5 n=2000 seed=3 lo=256 cnt=200 r=0.36423 dmm=2.414
+INT rule=M K=2 q=0.5 n=2000 seed=3 lo=512 cnt=200 r=0.42485 dmm=2.215
+INT rule=M K=2 q=0.5 n=2000 seed=3 lo=1024 cnt=200 r=0.50425 dmm=1.989
+WHOLE rule=M K=2 q=0.5 W=50 n=2000 seed=4 r=0.689851 dmm=1.5587 height=348 links=2877 linkpar_last=1.445 mins=1 maxs=6 diamonds=9 tops=8 stacked=0 maxstack=1 fano=0.800 diam_per100=0.200
+INT rule=M K=2 q=0.5 n=2000 seed=4 lo=16 cnt=200 r=0.93326 dmm=1.110
+INT rule=M K=2 q=0.5 n=2000 seed=4 lo=32 cnt=200 r=0.82340 dmm=1.302
+INT rule=M K=2 q=0.5 n=2000 seed=4 lo=64 cnt=200 r=0.63979 dmm=1.664
+INT rule=M K=2 q=0.5 n=2000 seed=4 lo=128 cnt=200 r=0.54465 dmm=1.885
+INT rule=M K=2 q=0.5 n=2000 seed=4 lo=256 cnt=200 r=0.50888 dmm=1.976
+INT rule=M K=2 q=0.5 n=2000 seed=4 lo=512 cnt=200 r=0.53367 dmm=1.913
+INT rule=M K=2 q=0.5 n=2000 seed=4 lo=1024 cnt=200 r=0.60044 dmm=1.752
+WHOLE rule=M K=2 q=0.5 W=50 n=2000 seed=5 r=0.574941 dmm=1.8117 height=236 links=3062 linkpar_last=1.440 mins=1 maxs=4 diamonds=5 tops=5 stacked=0 maxstack=1 fano=0.900 diam_per100=0.100
+INT rule=M K=2 q=0.5 n=2000 seed=5 lo=16 cnt=200 r=0.90885 dmm=1.152
+INT rule=M K=2 q=0.5 n=2000 seed=5 lo=32 cnt=200 r=0.71946 dmm=1.499
+INT rule=M K=2 q=0.5 n=2000 seed=5 lo=64 cnt=200 r=0.53390 dmm=1.912
+INT rule=M K=2 q=0.5 n=2000 seed=5 lo=128 cnt=200 r=0.42509 dmm=2.214
+INT rule=M K=2 q=0.5 n=2000 seed=5 lo=256 cnt=200 r=0.42085 dmm=2.227
+INT rule=M K=2 q=0.5 n=2000 seed=5 lo=512 cnt=200 r=0.45789 dmm=2.117
+INT rule=M K=2 q=0.5 n=2000 seed=5 lo=1024 cnt=200 r=0.48962 dmm=2.028
+WHOLE rule=M K=2 q=0.5 W=50 n=8000 seed=1 r=0.525552 dmm=1.9333 height=427 links=12445 linkpar_last=1.601 mins=1 maxs=116 diamonds=7 tops=7 stacked=0 maxstack=1 fano=0.975 diam_per100=0.025
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=16 cnt=200 r=0.96316 dmm=1.061
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=32 cnt=200 r=0.81843 dmm=1.311
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=64 cnt=200 r=0.57226 dmm=1.818
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=128 cnt=200 r=0.42072 dmm=2.228
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=256 cnt=200 r=0.33813 dmm=2.509
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=512 cnt=200 r=0.31704 dmm=2.591
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=1024 cnt=200 r=0.37152 dmm=2.388
+INT rule=M K=2 q=0.5 n=8000 seed=1 lo=2048 cnt=200 r=0.44678 dmm=2.149
+WHOLE rule=M K=2 q=0.5 W=50 n=8000 seed=2 r=0.669058 dmm=1.6019 height=907 links=11915 linkpar_last=1.454 mins=1 maxs=23 diamonds=5 tops=5 stacked=0 maxstack=1 fano=0.975 diam_per100=0.025
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=16 cnt=200 r=0.97308 dmm=1.044
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=32 cnt=200 r=0.89196 dmm=1.181
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=64 cnt=200 r=0.77912 dmm=1.384
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=128 cnt=200 r=0.69319 dmm=1.552
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=256 cnt=200 r=0.51370 dmm=1.964
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=512 cnt=200 r=0.45841 dmm=2.115
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=1024 cnt=200 r=0.45883 dmm=2.114
+INT rule=M K=2 q=0.5 n=8000 seed=2 lo=2048 cnt=200 r=0.50629 dmm=1.983
+WHOLE rule=M K=2 q=0.5 W=50 n=8000 seed=3 r=0.614348 dmm=1.7208 height=477 links=12250 linkpar_last=1.530 mins=1 maxs=27 diamonds=4 tops=4 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=16 cnt=200 r=0.97201 dmm=1.046
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=32 cnt=200 r=0.87096 dmm=1.217
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=64 cnt=200 r=0.65198 dmm=1.638
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=128 cnt=200 r=0.49208 dmm=2.021
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=256 cnt=200 r=0.42783 dmm=2.206
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=512 cnt=200 r=0.39834 dmm=2.299
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=1024 cnt=200 r=0.40689 dmm=2.271
+INT rule=M K=2 q=0.5 n=8000 seed=3 lo=2048 cnt=200 r=0.48519 dmm=2.040
+WHOLE rule=M K=2 q=0.5 W=50 n=8000 seed=4 r=0.630848 dmm=1.6841 height=617 links=11917 linkpar_last=1.539 mins=1 maxs=41 diamonds=10 tops=9 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=16 cnt=200 r=0.98342 dmm=1.027
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=32 cnt=200 r=0.89744 dmm=1.171
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=64 cnt=200 r=0.69791 dmm=1.542
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=128 cnt=200 r=0.51765 dmm=1.954
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=256 cnt=200 r=0.42806 dmm=2.205
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=512 cnt=200 r=0.39871 dmm=2.297
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=1024 cnt=200 r=0.42301 dmm=2.220
+INT rule=M K=2 q=0.5 n=8000 seed=4 lo=2048 cnt=200 r=0.50145 dmm=1.996
+WHOLE rule=M K=2 q=0.5 W=50 n=8000 seed=5 r=0.547175 dmm=1.8790 height=415 links=12510 linkpar_last=1.609 mins=1 maxs=122 diamonds=7 tops=7 stacked=0 maxstack=1 fano=0.950 diam_per100=0.050
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=16 cnt=200 r=0.95899 dmm=1.067
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=32 cnt=200 r=0.80038 dmm=1.344
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=64 cnt=200 r=0.61929 dmm=1.710
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=128 cnt=200 r=0.49344 dmm=2.018
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=256 cnt=200 r=0.39783 dmm=2.300
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=512 cnt=200 r=0.35520 dmm=2.446
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=1024 cnt=200 r=0.38034 dmm=2.358
+INT rule=M K=2 q=0.5 n=8000 seed=5 lo=2048 cnt=200 r=0.45565 dmm=2.123
+WHOLE rule=M K=2 q=0.5 W=50 n=32000 seed=1 r=0.572974 dmm=1.8164 height=929 links=50362 linkpar_last=1.553 mins=1 maxs=60 diamonds=10 tops=10 stacked=0 maxstack=1 fano=0.994 diam_per100=0.006
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=16 cnt=200 r=0.98695 dmm=1.021
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=32 cnt=200 r=0.92169 dmm=1.130
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=64 cnt=200 r=0.73552 dmm=1.467
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=128 cnt=200 r=0.55680 dmm=1.855
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=256 cnt=200 r=0.41383 dmm=2.249
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=512 cnt=200 r=0.31233 dmm=2.610
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=1024 cnt=200 r=0.25913 dmm=2.844
+INT rule=M K=2 q=0.5 n=32000 seed=1 lo=2048 cnt=200 r=0.26108 dmm=2.835
+WHOLE rule=M K=2 q=0.5 W=50 n=32000 seed=2 r=0.580548 dmm=1.7985 height=1370 links=49161 linkpar_last=1.567 mins=1 maxs=29 diamonds=5 tops=5 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=16 cnt=200 r=0.99388 dmm=1.010
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=32 cnt=200 r=0.93107 dmm=1.114
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=64 cnt=200 r=0.71237 dmm=1.513
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=128 cnt=200 r=0.49322 dmm=2.018
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=256 cnt=200 r=0.36632 dmm=2.407
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=512 cnt=200 r=0.28888 dmm=2.708
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=1024 cnt=200 r=0.29957 dmm=2.662
+INT rule=M K=2 q=0.5 n=32000 seed=2 lo=2048 cnt=200 r=0.32835 dmm=2.546
+WHOLE rule=M K=2 q=0.5 W=50 n=32000 seed=3 r=0.656068 dmm=1.6294 height=1987 links=47994 linkpar_last=1.496 mins=1 maxs=74 diamonds=7 tops=7 stacked=0 maxstack=1 fano=0.988 diam_per100=0.013
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=16 cnt=200 r=0.99435 dmm=1.009
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=32 cnt=200 r=0.95730 dmm=1.070
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=64 cnt=200 r=0.85419 dmm=1.247
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=128 cnt=200 r=0.72730 dmm=1.483
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=256 cnt=200 r=0.60201 dmm=1.749
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=512 cnt=200 r=0.49258 dmm=2.020
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=1024 cnt=200 r=0.44052 dmm=2.167
+INT rule=M K=2 q=0.5 n=32000 seed=3 lo=2048 cnt=200 r=0.43981 dmm=2.170
+WHOLE rule=M K=2 q=0.5 W=50 n=32000 seed=4 r=0.561778 dmm=1.8433 height=953 links=49783 linkpar_last=1.568 mins=1 maxs=106 diamonds=13 tops=12 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=16 cnt=200 r=0.99592 dmm=1.007
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=32 cnt=200 r=0.93002 dmm=1.116
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=64 cnt=200 r=0.70085 dmm=1.536
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=128 cnt=200 r=0.47893 dmm=2.057
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=256 cnt=200 r=0.32536 dmm=2.558
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=512 cnt=200 r=0.24711 dmm=2.903
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=1024 cnt=200 r=0.21877 dmm=3.054
+INT rule=M K=2 q=0.5 n=32000 seed=4 lo=2048 cnt=200 r=0.23982 dmm=2.941
+WHOLE rule=M K=2 q=0.5 W=50 n=32000 seed=5 r=0.557244 dmm=1.8543 height=822 links=50689 linkpar_last=1.576 mins=1 maxs=82 diamonds=9 tops=9 stacked=0 maxstack=1 fano=0.000 diam_per100=0.000
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=16 cnt=200 r=0.98451 dmm=1.025
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=32 cnt=200 r=0.90853 dmm=1.152
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=64 cnt=200 r=0.74083 dmm=1.457
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=128 cnt=200 r=0.51017 dmm=1.973
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=256 cnt=200 r=0.37614 dmm=2.373
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=512 cnt=200 r=0.29789 dmm=2.670
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=1024 cnt=200 r=0.25604 dmm=2.859
+INT rule=M K=2 q=0.5 n=32000 seed=5 lo=2048 cnt=200 r=0.24850 dmm=2.896
+WHOLE rule=N K=2 q=0.5 W=50 n=500 seed=1 r=0.096826 dmm=4.0383 height=21 links=939 linkpar_last=1.980 mins=1 maxs=168 diamonds=244 tops=227 stacked=86 maxstack=4 fano=0.949 diam_per100=44.500
+INT rule=N K=2 q=0.5 n=500 seed=1 lo=16 cnt=200 r=0.51385 dmm=1.964
+INT rule=N K=2 q=0.5 n=500 seed=1 lo=32 cnt=200 r=0.42808 dmm=2.205
+INT rule=N K=2 q=0.5 n=500 seed=1 lo=64 cnt=74 r=0.40767 dmm=2.268
+WHOLE rule=N K=2 q=0.5 W=50 n=500 seed=2 r=0.093868 dmm=4.0751 height=18 links=939 linkpar_last=1.960 mins=1 maxs=171 diamonds=256 tops=225 stacked=117 maxstack=4 fano=0.200 diam_per100=45.000
+INT rule=N K=2 q=0.5 n=500 seed=2 lo=16 cnt=200 r=0.48864 dmm=2.031
+INT rule=N K=2 q=0.5 n=500 seed=2 lo=32 cnt=200 r=0.39913 dmm=2.296
+INT rule=N K=2 q=0.5 n=500 seed=2 lo=64 cnt=48 r=0.29540 dmm=2.680
+WHOLE rule=N K=2 q=0.5 W=50 n=500 seed=3 r=0.091279 dmm=4.1082 height=18 links=930 linkpar_last=1.980 mins=1 maxs=175 diamonds=223 tops=209 stacked=102 maxstack=4 fano=0.288 diam_per100=42.500
+INT rule=N K=2 q=0.5 n=500 seed=3 lo=16 cnt=200 r=0.51076 dmm=1.972
+INT rule=N K=2 q=0.5 n=500 seed=3 lo=32 cnt=200 r=0.41734 dmm=2.238
+INT rule=N K=2 q=0.5 n=500 seed=3 lo=64 cnt=15 r=0.39826 dmm=2.299
+WHOLE rule=N K=2 q=0.5 W=50 n=500 seed=4 r=0.093924 dmm=4.0744 height=22 links=937 linkpar_last=1.980 mins=1 maxs=174 diamonds=221 tops=210 stacked=68 maxstack=3 fano=0.006 diam_per100=44.500
+INT rule=N K=2 q=0.5 n=500 seed=4 lo=16 cnt=200 r=0.48892 dmm=2.030
+INT rule=N K=2 q=0.5 n=500 seed=4 lo=32 cnt=200 r=0.40735 dmm=2.270
+INT rule=N K=2 q=0.5 n=500 seed=4 lo=64 cnt=26 r=0.37822 dmm=2.365
+WHOLE rule=N K=2 q=0.5 W=50 n=500 seed=5 r=0.090277 dmm=4.1213 height=19 links=945 linkpar_last=1.980 mins=1 maxs=157 diamonds=244 tops=228 stacked=96 maxstack=4 fano=0.073 diam_per100=55.000
+INT rule=N K=2 q=0.5 n=500 seed=5 lo=16 cnt=200 r=0.51352 dmm=1.964
+INT rule=N K=2 q=0.5 n=500 seed=5 lo=32 cnt=200 r=0.44218 dmm=2.162
+INT rule=N K=2 q=0.5 n=500 seed=5 lo=64 cnt=8 r=0.32734 dmm=2.550
+WHOLE rule=N K=2 q=0.5 W=50 n=2000 seed=1 r=0.043643 dmm=4.9726 height=26 links=3890 linkpar_last=1.985 mins=1 maxs=669 diamonds=978 tops=920 stacked=420 maxstack=5 fano=0.349 diam_per100=49.400
+INT rule=N K=2 q=0.5 n=2000 seed=1 lo=16 cnt=200 r=0.52084 dmm=1.945
+INT rule=N K=2 q=0.5 n=2000 seed=1 lo=32 cnt=200 r=0.39265 dmm=2.317
+INT rule=N K=2 q=0.5 n=2000 seed=1 lo=64 cnt=200 r=0.33918 dmm=2.505
+INT rule=N K=2 q=0.5 n=2000 seed=1 lo=128 cnt=4 r=0.28555 dmm=2.723
+WHOLE rule=N K=2 q=0.5 W=50 n=2000 seed=2 r=0.042154 dmm=5.0129 height=24 links=3878 linkpar_last=1.985 mins=1 maxs=682 diamonds=979 tops=909 stacked=448 maxstack=5 fano=0.182 diam_per100=46.400
+INT rule=N K=2 q=0.5 n=2000 seed=2 lo=16 cnt=200 r=0.48514 dmm=2.040
+INT rule=N K=2 q=0.5 n=2000 seed=2 lo=32 cnt=200 r=0.37322 dmm=2.383
+INT rule=N K=2 q=0.5 n=2000 seed=2 lo=64 cnt=200 r=0.31882 dmm=2.584
+INT rule=N K=2 q=0.5 n=2000 seed=2 lo=128 cnt=1 r=0.23017 dmm=2.991
+WHOLE rule=N K=2 q=0.5 W=50 n=2000 seed=3 r=0.043113 dmm=4.9868 height=23 links=3882 linkpar_last=1.945 mins=1 maxs=662 diamonds=916 tops=873 stacked=423 maxstack=5 fano=0.370 diam_per100=45.800
+INT rule=N K=2 q=0.5 n=2000 seed=3 lo=16 cnt=200 r=0.48546 dmm=2.039
+INT rule=N K=2 q=0.5 n=2000 seed=3 lo=32 cnt=200 r=0.36396 dmm=2.415
+INT rule=N K=2 q=0.5 n=2000 seed=3 lo=64 cnt=200 r=0.32358 dmm=2.565
+INT rule=N K=2 q=0.5 n=2000 seed=3 lo=128 cnt=5 r=0.24702 dmm=2.904
+WHOLE rule=N K=2 q=0.5 W=50 n=2000 seed=4 r=0.043552 dmm=4.9750 height=28 links=3880 linkpar_last=1.960 mins=1 maxs=701 diamonds=930 tops=890 stacked=351 maxstack=5 fano=0.570 diam_per100=47.400
+INT rule=N K=2 q=0.5 n=2000 seed=4 lo=16 cnt=200 r=0.52226 dmm=1.942
+INT rule=N K=2 q=0.5 n=2000 seed=4 lo=32 cnt=200 r=0.37608 dmm=2.373
+INT rule=N K=2 q=0.5 n=2000 seed=4 lo=64 cnt=200 r=0.31716 dmm=2.590
+WHOLE rule=N K=2 q=0.5 W=50 n=2000 seed=5 r=0.041704 dmm=5.0253 height=23 links=3901 linkpar_last=1.980 mins=1 maxs=673 diamonds=948 tops=890 stacked=417 maxstack=5 fano=0.254 diam_per100=45.700
+INT rule=N K=2 q=0.5 n=2000 seed=5 lo=16 cnt=200 r=0.50081 dmm=1.998
+INT rule=N K=2 q=0.5 n=2000 seed=5 lo=32 cnt=200 r=0.38597 dmm=2.339
+INT rule=N K=2 q=0.5 n=2000 seed=5 lo=64 cnt=200 r=0.31409 dmm=2.603
+WHOLE rule=N K=2 q=0.5 W=50 n=8000 seed=1 r=0.019824 dmm=5.8807 height=33 links=15813 linkpar_last=1.989 mins=1 maxs=2697 diamonds=3778 tops=3597 stacked=1721 maxstack=6 fano=0.517 diam_per100=45.800
+INT rule=N K=2 q=0.5 n=8000 seed=1 lo=16 cnt=200 r=0.53525 dmm=1.909
+INT rule=N K=2 q=0.5 n=8000 seed=1 lo=32 cnt=200 r=0.36412 dmm=2.414
+INT rule=N K=2 q=0.5 n=8000 seed=1 lo=64 cnt=200 r=0.29243 dmm=2.693
+INT rule=N K=2 q=0.5 n=8000 seed=1 lo=128 cnt=96 r=0.24559 dmm=2.911
+WHOLE rule=N K=2 q=0.5 W=50 n=8000 seed=2 r=0.019688 dmm=5.8886 height=29 links=15798 linkpar_last=1.991 mins=1 maxs=2738 diamonds=3757 tops=3576 stacked=1691 maxstack=7 fano=0.773 diam_per100=46.125
+INT rule=N K=2 q=0.5 n=8000 seed=2 lo=16 cnt=200 r=0.55254 dmm=1.866
+INT rule=N K=2 q=0.5 n=8000 seed=2 lo=32 cnt=200 r=0.36729 dmm=2.403
+INT rule=N K=2 q=0.5 n=8000 seed=2 lo=64 cnt=200 r=0.28194 dmm=2.739
+INT rule=N K=2 q=0.5 n=8000 seed=2 lo=128 cnt=74 r=0.23149 dmm=2.984
+INT rule=N K=2 q=0.5 n=8000 seed=2 lo=256 cnt=2 r=0.18948 dmm=3.231
+WHOLE rule=N K=2 q=0.5 W=50 n=8000 seed=3 r=0.020218 dmm=5.8582 height=30 links=15777 linkpar_last=1.985 mins=1 maxs=2697 diamonds=3681 tops=3537 stacked=1641 maxstack=7 fano=0.773 diam_per100=46.050
+INT rule=N K=2 q=0.5 n=8000 seed=3 lo=16 cnt=200 r=0.52953 dmm=1.923
+INT rule=N K=2 q=0.5 n=8000 seed=3 lo=32 cnt=200 r=0.34078 dmm=2.499
+INT rule=N K=2 q=0.5 n=8000 seed=3 lo=64 cnt=200 r=0.28324 dmm=2.733
+INT rule=N K=2 q=0.5 n=8000 seed=3 lo=128 cnt=108 r=0.22906 dmm=2.997
+WHOLE rule=N K=2 q=0.5 W=50 n=8000 seed=4 r=0.020615 dmm=5.8360 height=35 links=15775 linkpar_last=1.990 mins=1 maxs=2707 diamonds=3673 tops=3528 stacked=1533 maxstack=6 fano=0.630 diam_per100=45.750
+INT rule=N K=2 q=0.5 n=8000 seed=4 lo=16 cnt=200 r=0.56273 dmm=1.841
+INT rule=N K=2 q=0.5 n=8000 seed=4 lo=32 cnt=200 r=0.36648 dmm=2.406
+INT rule=N K=2 q=0.5 n=8000 seed=4 lo=64 cnt=200 r=0.28311 dmm=2.734
+INT rule=N K=2 q=0.5 n=8000 seed=4 lo=128 cnt=95 r=0.23274 dmm=2.978
+WHOLE rule=N K=2 q=0.5 W=50 n=8000 seed=5 r=0.019477 dmm=5.9009 height=30 links=15819 linkpar_last=1.990 mins=1 maxs=2658 diamonds=3726 tops=3555 stacked=1690 maxstack=6 fano=0.852 diam_per100=46.550
+INT rule=N K=2 q=0.5 n=8000 seed=5 lo=16 cnt=200 r=0.53187 dmm=1.917
+INT rule=N K=2 q=0.5 n=8000 seed=5 lo=32 cnt=200 r=0.36072 dmm=2.426
+INT rule=N K=2 q=0.5 n=8000 seed=5 lo=64 cnt=200 r=0.27777 dmm=2.757
+INT rule=N K=2 q=0.5 n=8000 seed=5 lo=128 cnt=59 r=0.21758 dmm=3.061
+INT rule=N K=2 q=0.5 n=8000 seed=5 lo=256 cnt=2 r=0.17074 dmm=3.357
+WHOLE rule=N K=2 q=0.5 W=50 n=32000 seed=1 r=0.008939 dmm=6.7853 height=37 links=63640 linkpar_last=1.993 mins=1 maxs=10810 diamonds=14825 tops=14243 stacked=6563 maxstack=7 fano=0.521 diam_per100=45.663
+INT rule=N K=2 q=0.5 n=32000 seed=1 lo=16 cnt=200 r=0.58649 dmm=1.785
+INT rule=N K=2 q=0.5 n=32000 seed=1 lo=32 cnt=200 r=0.37055 dmm=2.392
+INT rule=N K=2 q=0.5 n=32000 seed=1 lo=64 cnt=200 r=0.26005 dmm=2.840
+INT rule=N K=2 q=0.5 n=32000 seed=1 lo=128 cnt=99 r=0.20770 dmm=3.118
+INT rule=N K=2 q=0.5 n=32000 seed=1 lo=256 cnt=17 r=0.17105 dmm=3.355
+WHOLE rule=N K=2 q=0.5 W=50 n=32000 seed=2 r=0.008923 dmm=6.7873 height=36 links=63636 linkpar_last=1.995 mins=1 maxs=10869 diamonds=14751 tops=14193 stacked=6580 maxstack=7 fano=0.509 diam_per100=45.938
+INT rule=N K=2 q=0.5 n=32000 seed=2 lo=16 cnt=200 r=0.56339 dmm=1.839
+INT rule=N K=2 q=0.5 n=32000 seed=2 lo=32 cnt=200 r=0.36247 dmm=2.420
+INT rule=N K=2 q=0.5 n=32000 seed=2 lo=64 cnt=188 r=0.24375 dmm=2.920
+INT rule=N K=2 q=0.5 n=32000 seed=2 lo=128 cnt=93 r=0.20241 dmm=3.150
+INT rule=N K=2 q=0.5 n=32000 seed=2 lo=256 cnt=12 r=0.17097 dmm=3.356
+WHOLE rule=N K=2 q=0.5 W=50 n=32000 seed=3 r=0.009276 dmm=6.7435 height=34 links=63600 linkpar_last=1.996 mins=1 maxs=10919 diamonds=14784 tops=14259 stacked=6477 maxstack=8 fano=0.554 diam_per100=46.331
+INT rule=N K=2 q=0.5 n=32000 seed=3 lo=16 cnt=200 r=0.56959 dmm=1.824
+INT rule=N K=2 q=0.5 n=32000 seed=3 lo=32 cnt=200 r=0.35510 dmm=2.446
+INT rule=N K=2 q=0.5 n=32000 seed=3 lo=64 cnt=183 r=0.24241 dmm=2.927
+INT rule=N K=2 q=0.5 n=32000 seed=3 lo=128 cnt=123 r=0.19576 dmm=3.191
+INT rule=N K=2 q=0.5 n=32000 seed=3 lo=256 cnt=28 r=0.17241 dmm=3.346
+WHOLE rule=N K=2 q=0.5 W=50 n=32000 seed=4 r=0.009393 dmm=6.7293 height=39 links=63595 linkpar_last=1.992 mins=1 maxs=10841 diamonds=14633 tops=14150 stacked=6331 maxstack=7 fano=0.448 diam_per100=45.844
+INT rule=N K=2 q=0.5 n=32000 seed=4 lo=16 cnt=200 r=0.60302 dmm=1.746
+INT rule=N K=2 q=0.5 n=32000 seed=4 lo=32 cnt=200 r=0.38896 dmm=2.329
+INT rule=N K=2 q=0.5 n=32000 seed=4 lo=64 cnt=194 r=0.25525 dmm=2.863
+INT rule=N K=2 q=0.5 n=32000 seed=4 lo=128 cnt=100 r=0.20111 dmm=3.158
+INT rule=N K=2 q=0.5 n=32000 seed=4 lo=256 cnt=15 r=0.15522 dmm=3.473
+INT rule=N K=2 q=0.5 n=32000 seed=4 lo=512 cnt=1 r=0.10361 dmm=3.958
+WHOLE rule=N K=2 q=0.5 W=50 n=32000 seed=5 r=0.009099 dmm=6.7653 height=36 links=63641 linkpar_last=1.992 mins=1 maxs=10889 diamonds=14767 tops=14241 stacked=6566 maxstack=8 fano=0.523 diam_per100=45.975
+INT rule=N K=2 q=0.5 n=32000 seed=5 lo=16 cnt=200 r=0.59059 dmm=1.775
+INT rule=N K=2 q=0.5 n=32000 seed=5 lo=32 cnt=200 r=0.37145 dmm=2.389
+INT rule=N K=2 q=0.5 n=32000 seed=5 lo=64 cnt=166 r=0.24918 dmm=2.893
+INT rule=N K=2 q=0.5 n=32000 seed=5 lo=128 cnt=118 r=0.18914 dmm=3.233
+INT rule=N K=2 q=0.5 n=32000 seed=5 lo=256 cnt=15 r=0.16017 dmm=3.435
+WHOLE rule=N K=2 q=0.9 W=50 n=500 seed=1 r=0.073515 dmm=4.3637 height=18 links=969 linkpar_last=2.000 mins=1 maxs=159 diamonds=435 tops=378 stacked=249 maxstack=5 fano=0.011 diam_per100=90.000
+INT rule=N K=2 q=0.9 n=500 seed=1 lo=16 cnt=200 r=0.55059 dmm=1.871
+INT rule=N K=2 q=0.9 n=500 seed=1 lo=32 cnt=200 r=0.46250 dmm=2.103
+WHOLE rule=N K=2 q=0.9 W=50 n=500 seed=2 r=0.077202 dmm=4.3061 height=16 links=968 linkpar_last=1.980 mins=1 maxs=162 diamonds=448 tops=392 stacked=276 maxstack=5 fano=0.011 diam_per100=93.000
+INT rule=N K=2 q=0.9 n=500 seed=2 lo=16 cnt=200 r=0.53366 dmm=1.913
+INT rule=N K=2 q=0.9 n=500 seed=2 lo=32 cnt=200 r=0.42812 dmm=2.205
+WHOLE rule=N K=2 q=0.9 W=50 n=500 seed=3 r=0.075479 dmm=4.3326 height=17 links=964 linkpar_last=1.980 mins=1 maxs=166 diamonds=472 tops=386 stacked=238 maxstack=4 fano=0.023 diam_per100=99.500
+INT rule=N K=2 q=0.9 n=500 seed=3 lo=16 cnt=200 r=0.59743 dmm=1.759
+INT rule=N K=2 q=0.9 n=500 seed=3 lo=32 cnt=200 r=0.46687 dmm=2.091
+WHOLE rule=N K=2 q=0.9 W=50 n=500 seed=4 r=0.061988 dmm=4.5638 height=16 links=969 linkpar_last=1.980 mins=1 maxs=171 diamonds=485 tops=393 stacked=268 maxstack=5 fano=0.371 diam_per100=97.000
+INT rule=N K=2 q=0.9 n=500 seed=4 lo=16 cnt=200 r=0.57534 dmm=1.811
+INT rule=N K=2 q=0.9 n=500 seed=4 lo=32 cnt=131 r=0.38162 dmm=2.354
+WHOLE rule=N K=2 q=0.9 W=50 n=500 seed=5 r=0.074148 dmm=4.3536 height=16 links=971 linkpar_last=1.980 mins=1 maxs=174 diamonds=466 tops=394 stacked=293 maxstack=6 fano=0.070 diam_per100=89.500
+INT rule=N K=2 q=0.9 n=500 seed=5 lo=16 cnt=200 r=0.56326 dmm=1.840
+INT rule=N K=2 q=0.9 n=500 seed=5 lo=32 cnt=200 r=0.48747 dmm=2.034
+WHOLE rule=N K=2 q=0.9 W=50 n=2000 seed=1 r=0.028841 dmm=5.4510 height=22 links=3950 linkpar_last=1.995 mins=1 maxs=706 diamonds=1820 tops=1608 stacked=1237 maxstack=6 fano=0.117 diam_per100=92.400
+INT rule=N K=2 q=0.9 n=2000 seed=1 lo=16 cnt=200 r=0.59331 dmm=1.769
+INT rule=N K=2 q=0.9 n=2000 seed=1 lo=32 cnt=200 r=0.43887 dmm=2.172
+INT rule=N K=2 q=0.9 n=2000 seed=1 lo=64 cnt=29 r=0.30746 dmm=2.630
+WHOLE rule=N K=2 q=0.9 W=50 n=2000 seed=2 r=0.030681 dmm=5.3799 height=21 links=3952 linkpar_last=1.985 mins=1 maxs=689 diamonds=1809 tops=1606 stacked=1237 maxstack=6 fano=0.212 diam_per100=91.100
+INT rule=N K=2 q=0.9 n=2000 seed=2 lo=16 cnt=200 r=0.56764 dmm=1.829
+INT rule=N K=2 q=0.9 n=2000 seed=2 lo=32 cnt=200 r=0.41311 dmm=2.251
+INT rule=N K=2 q=0.9 n=2000 seed=2 lo=64 cnt=67 r=0.33436 dmm=2.523
+WHOLE rule=N K=2 q=0.9 W=50 n=2000 seed=3 r=0.028766 dmm=5.4540 height=22 links=3945 linkpar_last=1.975 mins=1 maxs=696 diamonds=1850 tops=1597 stacked=1215 maxstack=5 fano=0.311 diam_per100=90.700
+INT rule=N K=2 q=0.9 n=2000 seed=3 lo=16 cnt=200 r=0.59303 dmm=1.769
+INT rule=N K=2 q=0.9 n=2000 seed=3 lo=32 cnt=200 r=0.44313 dmm=2.160
+INT rule=N K=2 q=0.9 n=2000 seed=3 lo=64 cnt=61 r=0.32981 dmm=2.541
+WHOLE rule=N K=2 q=0.9 W=50 n=2000 seed=4 r=0.025772 dmm=5.5803 height=19 links=3956 linkpar_last=1.985 mins=1 maxs=668 diamonds=1827 tops=1589 stacked=1211 maxstack=6 fano=0.148 diam_per100=89.400
+INT rule=N K=2 q=0.9 n=2000 seed=4 lo=16 cnt=200 r=0.56098 dmm=1.845
+INT rule=N K=2 q=0.9 n=2000 seed=4 lo=32 cnt=200 r=0.42801 dmm=2.205
+INT rule=N K=2 q=0.9 n=2000 seed=4 lo=64 cnt=17 r=0.28902 dmm=2.708
+WHOLE rule=N K=2 q=0.9 W=50 n=2000 seed=5 r=0.029312 dmm=5.4324 height=23 links=3959 linkpar_last=1.990 mins=1 maxs=688 diamonds=1802 tops=1590 stacked=1267 maxstack=6 fano=0.311 diam_per100=89.300
+INT rule=N K=2 q=0.9 n=2000 seed=5 lo=16 cnt=200 r=0.57410 dmm=1.814
+INT rule=N K=2 q=0.9 n=2000 seed=5 lo=32 cnt=200 r=0.44834 dmm=2.144
+INT rule=N K=2 q=0.9 n=2000 seed=5 lo=64 cnt=62 r=0.35217 dmm=2.457
+WHOLE rule=N K=2 q=0.9 W=50 n=8000 seed=1 r=0.011372 dmm=6.5129 height=25 links=15931 linkpar_last=1.996 mins=1 maxs=2746 diamonds=7127 tops=6382 stacked=5133 maxstack=8 fano=0.336 diam_per100=87.675
+INT rule=N K=2 q=0.9 n=8000 seed=1 lo=16 cnt=200 r=0.64143 dmm=1.661
+INT rule=N K=2 q=0.9 n=8000 seed=1 lo=32 cnt=200 r=0.43999 dmm=2.169
+INT rule=N K=2 q=0.9 n=8000 seed=1 lo=64 cnt=63 r=0.32320 dmm=2.566
+INT rule=N K=2 q=0.9 n=8000 seed=1 lo=128 cnt=2 r=0.23454 dmm=2.968
+WHOLE rule=N K=2 q=0.9 W=50 n=8000 seed=2 r=0.011714 dmm=6.4794 height=26 links=15930 linkpar_last=1.999 mins=1 maxs=2785 diamonds=7319 tops=6456 stacked=5265 maxstack=7 fano=0.256 diam_per100=91.525
+INT rule=N K=2 q=0.9 n=8000 seed=2 lo=16 cnt=200 r=0.63001 dmm=1.686
+INT rule=N K=2 q=0.9 n=8000 seed=2 lo=32 cnt=200 r=0.43985 dmm=2.169
+INT rule=N K=2 q=0.9 n=8000 seed=2 lo=64 cnt=97 r=0.31921 dmm=2.582
+INT rule=N K=2 q=0.9 n=8000 seed=2 lo=128 cnt=5 r=0.25962 dmm=2.842
+WHOLE rule=N K=2 q=0.9 W=50 n=8000 seed=3 r=0.011149 dmm=6.5354 height=26 links=15918 linkpar_last=2.000 mins=1 maxs=2753 diamonds=7302 tops=6392 stacked=5142 maxstack=7 fano=0.265 diam_per100=90.800
+INT rule=N K=2 q=0.9 n=8000 seed=3 lo=16 cnt=200 r=0.62800 dmm=1.690
+INT rule=N K=2 q=0.9 n=8000 seed=3 lo=32 cnt=200 r=0.44702 dmm=2.148
+INT rule=N K=2 q=0.9 n=8000 seed=3 lo=64 cnt=88 r=0.31784 dmm=2.588
+INT rule=N K=2 q=0.9 n=8000 seed=3 lo=128 cnt=5 r=0.23451 dmm=2.968
+WHOLE rule=N K=2 q=0.9 W=50 n=8000 seed=4 r=0.010532 dmm=6.5998 height=24 links=15939 linkpar_last=2.000 mins=1 maxs=2738 diamonds=7174 tops=6364 stacked=5064 maxstack=8 fano=0.399 diam_per100=90.200
+INT rule=N K=2 q=0.9 n=8000 seed=4 lo=16 cnt=200 r=0.59751 dmm=1.759
+INT rule=N K=2 q=0.9 n=8000 seed=4 lo=32 cnt=194 r=0.42732 dmm=2.207
+INT rule=N K=2 q=0.9 n=8000 seed=4 lo=64 cnt=57 r=0.28989 dmm=2.704
+INT rule=N K=2 q=0.9 n=8000 seed=4 lo=128 cnt=2 r=0.22496 dmm=3.020
+WHOLE rule=N K=2 q=0.9 W=50 n=8000 seed=5 r=0.011641 dmm=6.4864 height=26 links=15940 linkpar_last=1.998 mins=1 maxs=2770 diamonds=7153 tops=6360 stacked=5186 maxstack=7 fano=0.299 diam_per100=89.725
+INT rule=N K=2 q=0.9 n=8000 seed=5 lo=16 cnt=200 r=0.61429 dmm=1.721
+INT rule=N K=2 q=0.9 n=8000 seed=5 lo=32 cnt=200 r=0.44384 dmm=2.158
+INT rule=N K=2 q=0.9 n=8000 seed=5 lo=64 cnt=102 r=0.33527 dmm=2.520
+INT rule=N K=2 q=0.9 n=8000 seed=5 lo=128 cnt=6 r=0.22128 dmm=3.040
+WHOLE rule=N K=2 q=0.9 W=50 n=32000 seed=1 r=0.004379 dmm=7.5881 height=31 links=63901 linkpar_last=1.999 mins=1 maxs=11135 diamonds=28429 tops=25573 stacked=21054 maxstack=9 fano=0.339 diam_per100=88.956
+INT rule=N K=2 q=0.9 n=32000 seed=1 lo=16 cnt=200 r=0.69597 dmm=1.546
+INT rule=N K=2 q=0.9 n=32000 seed=1 lo=32 cnt=133 r=0.47228 dmm=2.076
+INT rule=N K=2 q=0.9 n=32000 seed=1 lo=64 cnt=48 r=0.32672 dmm=2.553
+INT rule=N K=2 q=0.9 n=32000 seed=1 lo=128 cnt=11 r=0.23530 dmm=2.964
+WHOLE rule=N K=2 q=0.9 W=50 n=32000 seed=2 r=0.004471 dmm=7.5647 height=29 links=63908 linkpar_last=2.000 mins=1 maxs=11007 diamonds=28789 tops=25693 stacked=21169 maxstack=9 fano=0.311 diam_per100=89.200
+INT rule=N K=2 q=0.9 n=32000 seed=2 lo=16 cnt=200 r=0.67491 dmm=1.590
+INT rule=N K=2 q=0.9 n=32000 seed=2 lo=32 cnt=118 r=0.44679 dmm=2.149
+INT rule=N K=2 q=0.9 n=32000 seed=2 lo=64 cnt=56 r=0.31553 dmm=2.597
+INT rule=N K=2 q=0.9 n=32000 seed=2 lo=128 cnt=18 r=0.22502 dmm=3.019
+INT rule=N K=2 q=0.9 n=32000 seed=2 lo=256 cnt=2 r=0.15972 dmm=3.438
+WHOLE rule=N K=2 q=0.9 W=50 n=32000 seed=3 r=0.004294 dmm=7.6100 height=31 links=63884 linkpar_last=1.999 mins=1 maxs=11076 diamonds=28654 tops=25615 stacked=20879 maxstack=8 fano=0.279 diam_per100=88.844
+INT rule=N K=2 q=0.9 n=32000 seed=3 lo=16 cnt=200 r=0.70296 dmm=1.532
+INT rule=N K=2 q=0.9 n=32000 seed=3 lo=32 cnt=110 r=0.46808 dmm=2.088
+INT rule=N K=2 q=0.9 n=32000 seed=3 lo=64 cnt=59 r=0.31687 dmm=2.592
+INT rule=N K=2 q=0.9 n=32000 seed=3 lo=128 cnt=11 r=0.25847 dmm=2.847
+WHOLE rule=N K=2 q=0.9 W=50 n=32000 seed=4 r=0.004197 dmm=7.6357 height=28 links=63906 linkpar_last=1.999 mins=1 maxs=10995 diamonds=28644 tops=25566 stacked=20668 maxstack=9 fano=0.295 diam_per100=89.763
+INT rule=N K=2 q=0.9 n=32000 seed=4 lo=16 cnt=200 r=0.67967 dmm=1.580
+INT rule=N K=2 q=0.9 n=32000 seed=4 lo=32 cnt=121 r=0.43933 dmm=2.171
+INT rule=N K=2 q=0.9 n=32000 seed=4 lo=64 cnt=26 r=0.29494 dmm=2.682
+INT rule=N K=2 q=0.9 n=32000 seed=4 lo=128 cnt=5 r=0.21248 dmm=3.090
+WHOLE rule=N K=2 q=0.9 W=50 n=32000 seed=5 r=0.004532 dmm=7.5496 height=31 links=63902 linkpar_last=1.998 mins=1 maxs=10978 diamonds=28470 tops=25571 stacked=20762 maxstack=9 fano=0.291 diam_per100=88.294
+INT rule=N K=2 q=0.9 n=32000 seed=5 lo=16 cnt=200 r=0.68949 dmm=1.559
+INT rule=N K=2 q=0.9 n=32000 seed=5 lo=32 cnt=112 r=0.44349 dmm=2.159
+INT rule=N K=2 q=0.9 n=32000 seed=5 lo=64 cnt=58 r=0.33739 dmm=2.512
+INT rule=N K=2 q=0.9 n=32000 seed=5 lo=128 cnt=16 r=0.23166 dmm=2.983
+INT rule=N K=2 q=0.9 n=32000 seed=5 lo=256 cnt=1 r=0.18096 dmm=3.287
+WHOLE rule=C K=2 q=0.9 W=50 n=500 seed=1 r=0.100874 dmm=3.9897 height=16 links=947 linkpar_last=1.980 mins=1 maxs=163 diamonds=54 tops=53 stacked=16 maxstack=2 fano=0.962 diam_per100=6.500
+INT rule=C K=2 q=0.9 n=500 seed=1 lo=16 cnt=200 r=0.39255 dmm=2.317
+INT rule=C K=2 q=0.9 n=500 seed=1 lo=32 cnt=200 r=0.34217 dmm=2.494
+INT rule=C K=2 q=0.9 n=500 seed=1 lo=64 cnt=200 r=0.29315 dmm=2.690
+WHOLE rule=C K=2 q=0.9 W=50 n=500 seed=2 r=0.117026 dmm=3.8127 height=18 links=943 linkpar_last=1.980 mins=1 maxs=170 diamonds=37 tops=35 stacked=7 maxstack=3 fano=0.500 diam_per100=4.500
+INT rule=C K=2 q=0.9 n=500 seed=2 lo=16 cnt=200 r=0.39673 dmm=2.304
+INT rule=C K=2 q=0.9 n=500 seed=2 lo=32 cnt=200 r=0.32883 dmm=2.544
+INT rule=C K=2 q=0.9 n=500 seed=2 lo=64 cnt=193 r=0.30413 dmm=2.643
+WHOLE rule=C K=2 q=0.9 W=50 n=500 seed=3 r=0.112689 dmm=3.8577 height=17 links=957 linkpar_last=2.000 mins=1 maxs=147 diamonds=54 tops=50 stacked=9 maxstack=3 fano=0.800 diam_per100=5.000
+INT rule=C K=2 q=0.9 n=500 seed=3 lo=16 cnt=200 r=0.38473 dmm=2.343
+INT rule=C K=2 q=0.9 n=500 seed=3 lo=32 cnt=200 r=0.32559 dmm=2.557
+INT rule=C K=2 q=0.9 n=500 seed=3 lo=64 cnt=200 r=0.28166 dmm=2.740
+WHOLE rule=C K=2 q=0.9 W=50 n=500 seed=4 r=0.102148 dmm=3.9747 height=15 links=960 linkpar_last=1.880 mins=1 maxs=161 diamonds=51 tops=48 stacked=9 maxstack=2 fano=0.409 diam_per100=5.500
+INT rule=C K=2 q=0.9 n=500 seed=4 lo=16 cnt=200 r=0.36716 dmm=2.404
+INT rule=C K=2 q=0.9 n=500 seed=4 lo=32 cnt=200 r=0.31156 dmm=2.613
+INT rule=C K=2 q=0.9 n=500 seed=4 lo=64 cnt=140 r=0.28850 dmm=2.710
+WHOLE rule=C K=2 q=0.9 W=50 n=500 seed=5 r=0.116401 dmm=3.8191 height=17 links=953 linkpar_last=1.900 mins=1 maxs=157 diamonds=47 tops=44 stacked=8 maxstack=2 fano=0.643 diam_per100=3.500
+INT rule=C K=2 q=0.9 n=500 seed=5 lo=16 cnt=200 r=0.37505 dmm=2.376
+INT rule=C K=2 q=0.9 n=500 seed=5 lo=32 cnt=200 r=0.32607 dmm=2.555
+INT rule=C K=2 q=0.9 n=500 seed=5 lo=64 cnt=200 r=0.30564 dmm=2.637
+WHOLE rule=C K=2 q=0.9 W=50 n=2000 seed=1 r=0.051929 dmm=4.7705 height=20 links=3905 linkpar_last=1.985 mins=1 maxs=648 diamonds=80 tops=78 stacked=20 maxstack=2 fano=0.700 diam_per100=0.800
+INT rule=C K=2 q=0.9 n=2000 seed=1 lo=16 cnt=200 r=0.38617 dmm=2.339
+INT rule=C K=2 q=0.9 n=2000 seed=1 lo=32 cnt=200 r=0.29523 dmm=2.681
+INT rule=C K=2 q=0.9 n=2000 seed=1 lo=64 cnt=200 r=0.24307 dmm=2.924
+INT rule=C K=2 q=0.9 n=2000 seed=1 lo=128 cnt=116 r=0.21331 dmm=3.085
+WHOLE rule=C K=2 q=0.9 W=50 n=2000 seed=2 r=0.057379 dmm=4.6541 height=22 links=3899 linkpar_last=1.970 mins=1 maxs=665 diamonds=60 tops=58 stacked=7 maxstack=3 fano=0.627 diam_per100=1.100
+INT rule=C K=2 q=0.9 n=2000 seed=2 lo=16 cnt=200 r=0.37559 dmm=2.374
+INT rule=C K=2 q=0.9 n=2000 seed=2 lo=32 cnt=200 r=0.28609 dmm=2.720
+INT rule=C K=2 q=0.9 n=2000 seed=2 lo=64 cnt=200 r=0.25486 dmm=2.865
+INT rule=C K=2 q=0.9 n=2000 seed=2 lo=128 cnt=69 r=0.24117 dmm=2.934
+WHOLE rule=C K=2 q=0.9 W=50 n=2000 seed=3 r=0.054806 dmm=4.7076 height=21 links=3908 linkpar_last=1.970 mins=1 maxs=662 diamonds=84 tops=80 stacked=14 maxstack=4 fano=0.314 diam_per100=1.400
+INT rule=C K=2 q=0.9 n=2000 seed=3 lo=16 cnt=200 r=0.36002 dmm=2.429
+INT rule=C K=2 q=0.9 n=2000 seed=3 lo=32 cnt=200 r=0.27918 dmm=2.751
+INT rule=C K=2 q=0.9 n=2000 seed=3 lo=64 cnt=200 r=0.23608 dmm=2.960
+INT rule=C K=2 q=0.9 n=2000 seed=3 lo=128 cnt=77 r=0.21223 dmm=3.092
+WHOLE rule=C K=2 q=0.9 W=50 n=2000 seed=4 r=0.051493 dmm=4.7803 height=18 links=3918 linkpar_last=1.995 mins=1 maxs=690 diamonds=77 tops=73 stacked=13 maxstack=3 fano=0.967 diam_per100=1.500
+INT rule=C K=2 q=0.9 n=2000 seed=4 lo=16 cnt=200 r=0.36504 dmm=2.411
+INT rule=C K=2 q=0.9 n=2000 seed=4 lo=32 cnt=200 r=0.27707 dmm=2.761
+INT rule=C K=2 q=0.9 n=2000 seed=4 lo=64 cnt=200 r=0.23355 dmm=2.973
+INT rule=C K=2 q=0.9 n=2000 seed=4 lo=128 cnt=59 r=0.21517 dmm=3.075
+WHOLE rule=C K=2 q=0.9 W=50 n=2000 seed=5 r=0.055362 dmm=4.6959 height=21 links=3909 linkpar_last=1.980 mins=1 maxs=644 diamonds=72 tops=69 stacked=12 maxstack=2 fano=1.467 diam_per100=1.200
+INT rule=C K=2 q=0.9 n=2000 seed=5 lo=16 cnt=200 r=0.37169 dmm=2.388
+INT rule=C K=2 q=0.9 n=2000 seed=5 lo=32 cnt=200 r=0.28854 dmm=2.710
+INT rule=C K=2 q=0.9 n=2000 seed=5 lo=64 cnt=200 r=0.25188 dmm=2.880
+INT rule=C K=2 q=0.9 n=2000 seed=5 lo=128 cnt=71 r=0.23018 dmm=2.991
+WHOLE rule=C K=2 q=0.9 W=50 n=8000 seed=1 r=0.025458 dmm=5.5944 height=24 links=15841 linkpar_last=1.989 mins=1 maxs=2628 diamonds=105 tops=103 stacked=24 maxstack=2 fano=1.137 diam_per100=0.325
+INT rule=C K=2 q=0.9 n=8000 seed=1 lo=16 cnt=200 r=0.39695 dmm=2.303
+INT rule=C K=2 q=0.9 n=8000 seed=1 lo=32 cnt=200 r=0.27156 dmm=2.786
+INT rule=C K=2 q=0.9 n=8000 seed=1 lo=64 cnt=200 r=0.20284 dmm=3.147
+INT rule=C K=2 q=0.9 n=8000 seed=1 lo=128 cnt=200 r=0.17399 dmm=3.335
+INT rule=C K=2 q=0.9 n=8000 seed=1 lo=256 cnt=38 r=0.15263 dmm=3.493
+WHOLE rule=C K=2 q=0.9 W=50 n=8000 seed=2 r=0.027556 dmm=5.5034 height=25 links=15826 linkpar_last=1.998 mins=1 maxs=2638 diamonds=93 tops=91 stacked=9 maxstack=3 fano=0.600 diam_per100=0.400
+INT rule=C K=2 q=0.9 n=8000 seed=2 lo=16 cnt=200 r=0.39362 dmm=2.314
+INT rule=C K=2 q=0.9 n=8000 seed=2 lo=32 cnt=200 r=0.26008 dmm=2.840
+INT rule=C K=2 q=0.9 n=8000 seed=2 lo=64 cnt=200 r=0.20373 dmm=3.142
+INT rule=C K=2 q=0.9 n=8000 seed=2 lo=128 cnt=200 r=0.17855 dmm=3.303
+INT rule=C K=2 q=0.9 n=8000 seed=2 lo=256 cnt=35 r=0.17735 dmm=3.311
+WHOLE rule=C K=2 q=0.9 W=50 n=8000 seed=3 r=0.026497 dmm=5.5484 height=24 links=15849 linkpar_last=1.994 mins=1 maxs=2669 diamonds=105 tops=101 stacked=15 maxstack=4 fano=0.829 diam_per100=0.325
+INT rule=C K=2 q=0.9 n=8000 seed=3 lo=16 cnt=200 r=0.37840 dmm=2.365
+INT rule=C K=2 q=0.9 n=8000 seed=3 lo=32 cnt=200 r=0.26172 dmm=2.832
+INT rule=C K=2 q=0.9 n=8000 seed=3 lo=64 cnt=200 r=0.20279 dmm=3.147
+INT rule=C K=2 q=0.9 n=8000 seed=3 lo=128 cnt=200 r=0.17217 dmm=3.347
+INT rule=C K=2 q=0.9 n=8000 seed=3 lo=256 cnt=11 r=0.16512 dmm=3.398
+WHOLE rule=C K=2 q=0.9 W=50 n=8000 seed=4 r=0.025821 dmm=5.5781 height=23 links=15842 linkpar_last=1.989 mins=1 maxs=2688 diamonds=107 tops=102 stacked=15 maxstack=3 fano=0.936 diam_per100=0.350
+INT rule=C K=2 q=0.9 n=8000 seed=4 lo=16 cnt=200 r=0.38018 dmm=2.359
+INT rule=C K=2 q=0.9 n=8000 seed=4 lo=32 cnt=200 r=0.25925 dmm=2.844
+INT rule=C K=2 q=0.9 n=8000 seed=4 lo=64 cnt=200 r=0.19852 dmm=3.173
+INT rule=C K=2 q=0.9 n=8000 seed=4 lo=128 cnt=200 r=0.16855 dmm=3.373
+INT rule=C K=2 q=0.9 n=8000 seed=4 lo=256 cnt=22 r=0.14436 dmm=3.561
+WHOLE rule=C K=2 q=0.9 W=50 n=8000 seed=5 r=0.026780 dmm=5.5362 height=25 links=15832 linkpar_last=1.989 mins=1 maxs=2665 diamonds=100 tops=95 stacked=15 maxstack=3 fano=1.033 diam_per100=0.300
+INT rule=C K=2 q=0.9 n=8000 seed=5 lo=16 cnt=200 r=0.39061 dmm=2.324
+INT rule=C K=2 q=0.9 n=8000 seed=5 lo=32 cnt=200 r=0.26130 dmm=2.834
+INT rule=C K=2 q=0.9 n=8000 seed=5 lo=64 cnt=200 r=0.20291 dmm=3.147
+INT rule=C K=2 q=0.9 n=8000 seed=5 lo=128 cnt=200 r=0.17511 dmm=3.327
+INT rule=C K=2 q=0.9 n=8000 seed=5 lo=256 cnt=31 r=0.16116 dmm=3.428
+WHOLE rule=C K=2 q=0.9 W=50 n=32000 seed=1 r=0.012332 dmm=6.4211 height=28 links=63737 linkpar_last=1.998 mins=1 maxs=10574 diamonds=136 tops=134 stacked=26 maxstack=2 fano=0.919 diam_per100=0.081
+INT rule=C K=2 q=0.9 n=32000 seed=1 lo=16 cnt=200 r=0.41294 dmm=2.252
+INT rule=C K=2 q=0.9 n=32000 seed=1 lo=32 cnt=200 r=0.26832 dmm=2.801
+INT rule=C K=2 q=0.9 n=32000 seed=1 lo=64 cnt=200 r=0.17993 dmm=3.294
+INT rule=C K=2 q=0.9 n=32000 seed=1 lo=128 cnt=156 r=0.13985 dmm=3.599
+INT rule=C K=2 q=0.9 n=32000 seed=1 lo=256 cnt=60 r=0.12402 dmm=3.743
+INT rule=C K=2 q=0.9 n=32000 seed=1 lo=512 cnt=10 r=0.11032 dmm=3.883
+WHOLE rule=C K=2 q=0.9 W=50 n=32000 seed=2 r=0.012962 dmm=6.3645 height=30 links=63703 linkpar_last=1.994 mins=1 maxs=10544 diamonds=128 tops=126 stacked=11 maxstack=3 fano=0.933 diam_per100=0.150
+INT rule=C K=2 q=0.9 n=32000 seed=2 lo=16 cnt=200 r=0.42676 dmm=2.209
+INT rule=C K=2 q=0.9 n=32000 seed=2 lo=32 cnt=200 r=0.25902 dmm=2.845
+INT rule=C K=2 q=0.9 n=32000 seed=2 lo=64 cnt=200 r=0.18476 dmm=3.261
+INT rule=C K=2 q=0.9 n=32000 seed=2 lo=128 cnt=193 r=0.13665 dmm=3.627
+INT rule=C K=2 q=0.9 n=32000 seed=2 lo=256 cnt=81 r=0.12019 dmm=3.781
+INT rule=C K=2 q=0.9 n=32000 seed=2 lo=512 cnt=6 r=0.10834 dmm=3.905
+WHOLE rule=C K=2 q=0.9 W=50 n=32000 seed=3 r=0.012625 dmm=6.3944 height=27 links=63716 linkpar_last=1.997 mins=1 maxs=10598 diamonds=130 tops=126 stacked=15 maxstack=4 fano=1.113 diam_per100=0.069
+INT rule=C K=2 q=0.9 n=32000 seed=3 lo=16 cnt=200 r=0.41213 dmm=2.254
+INT rule=C K=2 q=0.9 n=32000 seed=3 lo=32 cnt=200 r=0.26474 dmm=2.818
+INT rule=C K=2 q=0.9 n=32000 seed=3 lo=64 cnt=200 r=0.17818 dmm=3.306
+INT rule=C K=2 q=0.9 n=32000 seed=3 lo=128 cnt=154 r=0.13767 dmm=3.618
+INT rule=C K=2 q=0.9 n=32000 seed=3 lo=256 cnt=66 r=0.12257 dmm=3.757
+INT rule=C K=2 q=0.9 n=32000 seed=3 lo=512 cnt=8 r=0.10927 dmm=3.894
+WHOLE rule=C K=2 q=0.9 W=50 n=32000 seed=4 r=0.012429 dmm=6.4122 height=29 links=63713 linkpar_last=1.998 mins=1 maxs=10581 diamonds=151 tops=146 stacked=18 maxstack=3 fano=0.999 diam_per100=0.113
+INT rule=C K=2 q=0.9 n=32000 seed=4 lo=16 cnt=200 r=0.40886 dmm=2.265
+INT rule=C K=2 q=0.9 n=32000 seed=4 lo=32 cnt=200 r=0.25849 dmm=2.847
+INT rule=C K=2 q=0.9 n=32000 seed=4 lo=64 cnt=200 r=0.17829 dmm=3.305
+INT rule=C K=2 q=0.9 n=32000 seed=4 lo=128 cnt=137 r=0.13311 dmm=3.658
+INT rule=C K=2 q=0.9 n=32000 seed=4 lo=256 cnt=69 r=0.10795 dmm=3.909
+INT rule=C K=2 q=0.9 n=32000 seed=4 lo=512 cnt=7 r=0.11666 dmm=3.816
+WHOLE rule=C K=2 q=0.9 W=50 n=32000 seed=5 r=0.012902 dmm=6.3698 height=28 links=63719 linkpar_last=1.997 mins=1 maxs=10516 diamonds=122 tops=117 stacked=15 maxstack=3 fano=1.113 diam_per100=0.069
+INT rule=C K=2 q=0.9 n=32000 seed=5 lo=16 cnt=200 r=0.41236 dmm=2.254
+INT rule=C K=2 q=0.9 n=32000 seed=5 lo=32 cnt=200 r=0.26756 dmm=2.804
+INT rule=C K=2 q=0.9 n=32000 seed=5 lo=64 cnt=200 r=0.18022 dmm=3.292
+INT rule=C K=2 q=0.9 n=32000 seed=5 lo=128 cnt=166 r=0.14029 dmm=3.595
+INT rule=C K=2 q=0.9 n=32000 seed=5 lo=256 cnt=76 r=0.11787 dmm=3.804
+INT rule=C K=2 q=0.9 n=32000 seed=5 lo=512 cnt=12 r=0.11492 dmm=3.834
+WHOLE rule=T K=2 q=0.9 W=50 n=500 seed=1 r=0.101002 dmm=3.9882 height=21 links=895 linkpar_last=1.920 mins=1 maxs=188 diamonds=16 tops=16 stacked=0 maxstack=1 fano=0.900 diam_per100=2.500
+INT rule=T K=2 q=0.9 n=500 seed=1 lo=16 cnt=200 r=0.50633 dmm=1.983
+INT rule=T K=2 q=0.9 n=500 seed=1 lo=32 cnt=200 r=0.44326 dmm=2.159
+WHOLE rule=T K=2 q=0.9 W=50 n=500 seed=2 r=0.121042 dmm=3.7723 height=20 links=906 linkpar_last=1.900 mins=1 maxs=191 diamonds=10 tops=10 stacked=0 maxstack=1 fano=0.500 diam_per100=0.500
+INT rule=T K=2 q=0.9 n=500 seed=2 lo=16 cnt=200 r=0.45422 dmm=2.127
+INT rule=T K=2 q=0.9 n=500 seed=2 lo=32 cnt=200 r=0.40049 dmm=2.292
+INT rule=T K=2 q=0.9 n=500 seed=2 lo=64 cnt=87 r=0.34650 dmm=2.478
+WHOLE rule=T K=2 q=0.9 W=50 n=500 seed=3 r=0.120321 dmm=3.7795 height=19 links=909 linkpar_last=1.840 mins=1 maxs=171 diamonds=22 tops=21 stacked=2 maxstack=2 fano=0.100 diam_per100=2.500
+INT rule=T K=2 q=0.9 n=500 seed=3 lo=16 cnt=200 r=0.44134 dmm=2.165
+INT rule=T K=2 q=0.9 n=500 seed=3 lo=32 cnt=200 r=0.39881 dmm=2.297
+INT rule=T K=2 q=0.9 n=500 seed=3 lo=64 cnt=43 r=0.37703 dmm=2.370
+WHOLE rule=T K=2 q=0.9 W=50 n=500 seed=4 r=0.110461 dmm=3.8816 height=21 links=899 linkpar_last=1.800 mins=1 maxs=190 diamonds=16 tops=16 stacked=2 maxstack=2 fano=1.000 diam_per100=1.000
+INT rule=T K=2 q=0.9 n=500 seed=4 lo=16 cnt=200 r=0.50958 dmm=1.975
+INT rule=T K=2 q=0.9 n=500 seed=4 lo=32 cnt=200 r=0.44016 dmm=2.168
+INT rule=T K=2 q=0.9 n=500 seed=4 lo=64 cnt=25 r=0.37826 dmm=2.365
+WHOLE rule=T K=2 q=0.9 W=50 n=500 seed=5 r=0.119952 dmm=3.7831 height=18 links=906 linkpar_last=1.820 mins=1 maxs=182 diamonds=13 tops=12 stacked=1 maxstack=2 fano=0.500 diam_per100=0.500
+INT rule=T K=2 q=0.9 n=500 seed=5 lo=16 cnt=200 r=0.43635 dmm=2.180
+INT rule=T K=2 q=0.9 n=500 seed=5 lo=32 cnt=200 r=0.37380 dmm=2.381
+INT rule=T K=2 q=0.9 n=500 seed=5 lo=64 cnt=59 r=0.30991 dmm=2.620
+WHOLE rule=T K=2 q=0.9 W=50 n=2000 seed=1 r=0.050309 dmm=4.8074 height=26 links=3803 linkpar_last=1.960 mins=1 maxs=755 diamonds=33 tops=33 stacked=0 maxstack=1 fano=1.200 diam_per100=0.800
+INT rule=T K=2 q=0.9 n=2000 seed=1 lo=16 cnt=200 r=0.42282 dmm=2.221
+INT rule=T K=2 q=0.9 n=2000 seed=1 lo=32 cnt=200 r=0.35092 dmm=2.462
+INT rule=T K=2 q=0.9 n=2000 seed=1 lo=64 cnt=200 r=0.32391 dmm=2.564
+INT rule=T K=2 q=0.9 n=2000 seed=1 lo=128 cnt=10 r=0.26290 dmm=2.826
+WHOLE rule=T K=2 q=0.9 W=50 n=2000 seed=2 r=0.060207 dmm=4.5979 height=25 links=3808 linkpar_last=1.965 mins=1 maxs=773 diamonds=15 tops=15 stacked=1 maxstack=2 fano=0.800 diam_per100=0.200
+INT rule=T K=2 q=0.9 n=2000 seed=2 lo=16 cnt=200 r=0.45465 dmm=2.126
+INT rule=T K=2 q=0.9 n=2000 seed=2 lo=32 cnt=200 r=0.34432 dmm=2.486
+INT rule=T K=2 q=0.9 n=2000 seed=2 lo=64 cnt=200 r=0.31513 dmm=2.598
+INT rule=T K=2 q=0.9 n=2000 seed=2 lo=128 cnt=16 r=0.30247 dmm=2.650
+WHOLE rule=T K=2 q=0.9 W=50 n=2000 seed=3 r=0.059868 dmm=4.6045 height=25 links=3815 linkpar_last=1.975 mins=1 maxs=758 diamonds=31 tops=30 stacked=2 maxstack=2 fano=0.871 diam_per100=0.700
+INT rule=T K=2 q=0.9 n=2000 seed=3 lo=16 cnt=200 r=0.42356 dmm=2.219
+INT rule=T K=2 q=0.9 n=2000 seed=3 lo=32 cnt=200 r=0.32550 dmm=2.557
+INT rule=T K=2 q=0.9 n=2000 seed=3 lo=64 cnt=200 r=0.30590 dmm=2.636
+INT rule=T K=2 q=0.9 n=2000 seed=3 lo=128 cnt=12 r=0.28763 dmm=2.714
+WHOLE rule=T K=2 q=0.9 W=50 n=2000 seed=4 r=0.054660 dmm=4.7108 height=26 links=3803 linkpar_last=1.960 mins=1 maxs=767 diamonds=25 tops=25 stacked=2 maxstack=2 fano=0.871 diam_per100=0.700
+INT rule=T K=2 q=0.9 n=2000 seed=4 lo=16 cnt=200 r=0.42320 dmm=2.220
+INT rule=T K=2 q=0.9 n=2000 seed=4 lo=32 cnt=200 r=0.35724 dmm=2.439
+INT rule=T K=2 q=0.9 n=2000 seed=4 lo=64 cnt=200 r=0.31793 dmm=2.587
+INT rule=T K=2 q=0.9 n=2000 seed=4 lo=128 cnt=8 r=0.25885 dmm=2.846
+WHOLE rule=T K=2 q=0.9 W=50 n=2000 seed=5 r=0.060243 dmm=4.5972 height=24 links=3796 linkpar_last=1.940 mins=1 maxs=760 diamonds=23 tops=22 stacked=2 maxstack=2 fano=0.900 diam_per100=0.500
+INT rule=T K=2 q=0.9 n=2000 seed=5 lo=16 cnt=200 r=0.43020 dmm=2.198
+INT rule=T K=2 q=0.9 n=2000 seed=5 lo=32 cnt=200 r=0.32243 dmm=2.569
+INT rule=T K=2 q=0.9 n=2000 seed=5 lo=64 cnt=200 r=0.29205 dmm=2.694
+INT rule=T K=2 q=0.9 n=2000 seed=5 lo=128 cnt=28 r=0.27100 dmm=2.788
+WHOLE rule=T K=2 q=0.9 W=50 n=8000 seed=1 r=0.025636 dmm=5.5864 height=30 links=15642 linkpar_last=1.974 mins=1 maxs=3087 diamonds=39 tops=39 stacked=0 maxstack=1 fano=0.925 diam_per100=0.075
+INT rule=T K=2 q=0.9 n=8000 seed=1 lo=16 cnt=200 r=0.44132 dmm=2.165
+INT rule=T K=2 q=0.9 n=8000 seed=1 lo=32 cnt=200 r=0.28949 dmm=2.706
+INT rule=T K=2 q=0.9 n=8000 seed=1 lo=64 cnt=200 r=0.25026 dmm=2.888
+INT rule=T K=2 q=0.9 n=8000 seed=1 lo=128 cnt=200 r=0.21599 dmm=3.070
+INT rule=T K=2 q=0.9 n=8000 seed=1 lo=256 cnt=1 r=0.21939 dmm=3.051
+WHOLE rule=T K=2 q=0.9 W=50 n=8000 seed=2 r=0.028839 dmm=5.4511 height=30 links=15619 linkpar_last=1.984 mins=1 maxs=3050 diamonds=22 tops=22 stacked=1 maxstack=2 fano=0.925 diam_per100=0.075
+INT rule=T K=2 q=0.9 n=8000 seed=2 lo=16 cnt=200 r=0.45650 dmm=2.121
+INT rule=T K=2 q=0.9 n=8000 seed=2 lo=32 cnt=200 r=0.30751 dmm=2.629
+INT rule=T K=2 q=0.9 n=8000 seed=2 lo=64 cnt=200 r=0.25668 dmm=2.856
+INT rule=T K=2 q=0.9 n=8000 seed=2 lo=128 cnt=200 r=0.23989 dmm=2.940
+INT rule=T K=2 q=0.9 n=8000 seed=2 lo=256 cnt=9 r=0.20800 dmm=3.116
+WHOLE rule=T K=2 q=0.9 W=50 n=8000 seed=3 r=0.028746 dmm=5.4548 height=31 links=15636 linkpar_last=1.971 mins=1 maxs=3057 diamonds=45 tops=44 stacked=2 maxstack=2 fano=0.775 diam_per100=0.225
+INT rule=T K=2 q=0.9 n=8000 seed=3 lo=16 cnt=200 r=0.45876 dmm=2.114
+INT rule=T K=2 q=0.9 n=8000 seed=3 lo=32 cnt=200 r=0.30008 dmm=2.660
+INT rule=T K=2 q=0.9 n=8000 seed=3 lo=64 cnt=200 r=0.23716 dmm=2.954
+INT rule=T K=2 q=0.9 n=8000 seed=3 lo=128 cnt=200 r=0.22087 dmm=3.042
+INT rule=T K=2 q=0.9 n=8000 seed=3 lo=256 cnt=3 r=0.23621 dmm=2.959
+WHOLE rule=T K=2 q=0.9 W=50 n=8000 seed=4 r=0.028021 dmm=5.4842 height=32 links=15625 linkpar_last=1.971 mins=1 maxs=3053 diamonds=34 tops=34 stacked=2 maxstack=2 fano=0.925 diam_per100=0.075
+INT rule=T K=2 q=0.9 n=8000 seed=4 lo=16 cnt=200 r=0.45997 dmm=2.111
+INT rule=T K=2 q=0.9 n=8000 seed=4 lo=32 cnt=200 r=0.30032 dmm=2.659
+INT rule=T K=2 q=0.9 n=8000 seed=4 lo=64 cnt=200 r=0.24841 dmm=2.897
+INT rule=T K=2 q=0.9 n=8000 seed=4 lo=128 cnt=200 r=0.22188 dmm=3.037
+INT rule=T K=2 q=0.9 n=8000 seed=4 lo=256 cnt=2 r=0.19711 dmm=3.182
+WHOLE rule=T K=2 q=0.9 W=50 n=8000 seed=5 r=0.029846 dmm=5.4116 height=29 links=15605 linkpar_last=1.978 mins=1 maxs=3076 diamonds=34 tops=33 stacked=3 maxstack=2 fano=1.111 diam_per100=0.175
+INT rule=T K=2 q=0.9 n=8000 seed=5 lo=16 cnt=200 r=0.45924 dmm=2.113
+INT rule=T K=2 q=0.9 n=8000 seed=5 lo=32 cnt=200 r=0.29400 dmm=2.686
+INT rule=T K=2 q=0.9 n=8000 seed=5 lo=64 cnt=200 r=0.22826 dmm=3.002
+INT rule=T K=2 q=0.9 n=8000 seed=5 lo=128 cnt=200 r=0.21906 dmm=3.052
+INT rule=T K=2 q=0.9 n=8000 seed=5 lo=256 cnt=8 r=0.20108 dmm=3.158
+WHOLE rule=T K=2 q=0.9 W=50 n=32000 seed=1 r=0.013184 dmm=6.3452 height=35 links=63333 linkpar_last=1.988 mins=1 maxs=12166 diamonds=47 tops=47 stacked=1 maxstack=2 fano=0.975 diam_per100=0.025
+INT rule=T K=2 q=0.9 n=32000 seed=1 lo=16 cnt=200 r=0.49486 dmm=2.014
+INT rule=T K=2 q=0.9 n=32000 seed=1 lo=32 cnt=200 r=0.29294 dmm=2.691
+INT rule=T K=2 q=0.9 n=32000 seed=1 lo=64 cnt=200 r=0.19756 dmm=3.179
+INT rule=T K=2 q=0.9 n=32000 seed=1 lo=128 cnt=200 r=0.16114 dmm=3.428
+INT rule=T K=2 q=0.9 n=32000 seed=1 lo=256 cnt=73 r=0.15553 dmm=3.471
+WHOLE rule=T K=2 q=0.9 W=50 n=32000 seed=2 r=0.013941 dmm=6.2818 height=36 links=63275 linkpar_last=1.987 mins=1 maxs=12143 diamonds=32 tops=32 stacked=1 maxstack=2 fano=1.369 diam_per100=0.031
+INT rule=T K=2 q=0.9 n=32000 seed=2 lo=16 cnt=200 r=0.48070 dmm=2.052
+INT rule=T K=2 q=0.9 n=32000 seed=2 lo=32 cnt=200 r=0.30358 dmm=2.646
+INT rule=T K=2 q=0.9 n=32000 seed=2 lo=64 cnt=200 r=0.20771 dmm=3.118
+INT rule=T K=2 q=0.9 n=32000 seed=2 lo=128 cnt=200 r=0.17113 dmm=3.355
+INT rule=T K=2 q=0.9 n=32000 seed=2 lo=256 cnt=105 r=0.16251 dmm=3.417
+INT rule=T K=2 q=0.9 n=32000 seed=2 lo=512 cnt=1 r=0.17565 dmm=3.323
+WHOLE rule=T K=2 q=0.9 W=50 n=32000 seed=3 r=0.013856 dmm=6.2888 height=33 links=63303 linkpar_last=1.993 mins=1 maxs=12201 diamonds=52 tops=51 stacked=2 maxstack=2 fano=0.988 diam_per100=0.013
+INT rule=T K=2 q=0.9 n=32000 seed=3 lo=16 cnt=200 r=0.48527 dmm=2.040
+INT rule=T K=2 q=0.9 n=32000 seed=3 lo=32 cnt=200 r=0.29639 dmm=2.676
+INT rule=T K=2 q=0.9 n=32000 seed=3 lo=64 cnt=200 r=0.20268 dmm=3.148
+INT rule=T K=2 q=0.9 n=32000 seed=3 lo=128 cnt=200 r=0.16746 dmm=3.381
+INT rule=T K=2 q=0.9 n=32000 seed=3 lo=256 cnt=98 r=0.16059 dmm=3.432
+INT rule=T K=2 q=0.9 n=32000 seed=3 lo=512 cnt=1 r=0.13817 dmm=3.614
+WHOLE rule=T K=2 q=0.9 W=50 n=32000 seed=4 r=0.013954 dmm=6.2808 height=37 links=63289 linkpar_last=1.992 mins=1 maxs=12183 diamonds=43 tops=43 stacked=2 maxstack=2 fano=0.981 diam_per100=0.019
+INT rule=T K=2 q=0.9 n=32000 seed=4 lo=16 cnt=200 r=0.49435 dmm=2.015
+INT rule=T K=2 q=0.9 n=32000 seed=4 lo=32 cnt=200 r=0.30052 dmm=2.658
+INT rule=T K=2 q=0.9 n=32000 seed=4 lo=64 cnt=200 r=0.20172 dmm=3.154
+INT rule=T K=2 q=0.9 n=32000 seed=4 lo=128 cnt=200 r=0.16516 dmm=3.398
+INT rule=T K=2 q=0.9 n=32000 seed=4 lo=256 cnt=113 r=0.16061 dmm=3.432
+WHOLE rule=T K=2 q=0.9 W=50 n=32000 seed=5 r=0.014494 dmm=6.2376 height=34 links=63282 linkpar_last=1.992 mins=1 maxs=12252 diamonds=40 tops=39 stacked=3 maxstack=2 fano=0.988 diam_per100=0.013
+INT rule=T K=2 q=0.9 n=32000 seed=5 lo=16 cnt=200 r=0.50433 dmm=1.989
+INT rule=T K=2 q=0.9 n=32000 seed=5 lo=32 cnt=200 r=0.30578 dmm=2.637
+INT rule=T K=2 q=0.9 n=32000 seed=5 lo=64 cnt=200 r=0.20044 dmm=3.162
+INT rule=T K=2 q=0.9 n=32000 seed=5 lo=128 cnt=200 r=0.15626 dmm=3.465
+INT rule=T K=2 q=0.9 n=32000 seed=5 lo=256 cnt=115 r=0.15759 dmm=3.455
+INT rule=T K=2 q=0.9 n=32000 seed=5 lo=512 cnt=3 r=0.15496 dmm=3.475
+WHOLE rule=U K=2 q=0.1 W=50 n=500 seed=1 r=0.031695 dmm=5.3424 height=15 links=621 linkpar_last=1.300 mins=1 maxs=231 diamonds=156 tops=93 stacked=12 maxstack=2 fano=0.008 diam_per100=32.500
+WHOLE rule=U K=2 q=0.1 W=50 n=500 seed=2 r=0.026589 dmm=5.5444 height=13 links=632 linkpar_last=1.300 mins=1 maxs=216 diamonds=175 tops=111 stacked=13 maxstack=2 fano=0.082 diam_per100=49.000
+WHOLE rule=U K=2 q=0.1 W=50 n=500 seed=3 r=0.033363 dmm=5.2833 height=14 links=625 linkpar_last=1.340 mins=1 maxs=230 diamonds=158 tops=103 stacked=27 maxstack=3 fano=0.062 diam_per100=36.500
+WHOLE rule=U K=2 q=0.1 W=50 n=500 seed=4 r=0.035102 dmm=5.2246 height=12 links=704 linkpar_last=1.480 mins=1 maxs=207 diamonds=269 tops=154 stacked=56 maxstack=3 fano=1.862 diam_per100=65.000
+INT rule=U K=2 q=0.1 n=500 seed=4 lo=16 cnt=115 r=0.48942 dmm=2.028
+WHOLE rule=U K=2 q=0.1 W=50 n=500 seed=5 r=0.028016 dmm=5.4844 height=12 links=647 linkpar_last=1.420 mins=1 maxs=224 diamonds=187 tops=118 stacked=22 maxstack=2 fano=0.098 diam_per100=41.000
+WHOLE rule=U K=2 q=0.1 W=50 n=2000 seed=1 r=0.010235 dmm=6.6323 height=20 links=2678 linkpar_last=1.460 mins=1 maxs=886 diamonds=896 tops=527 stacked=134 maxstack=3 fano=3.831 diam_per100=51.200
+INT rule=U K=2 q=0.1 n=2000 seed=1 lo=16 cnt=27 r=0.72345 dmm=1.491
+WHOLE rule=U K=2 q=0.1 W=50 n=2000 seed=2 r=0.008887 dmm=6.7918 height=17 links=2723 linkpar_last=1.465 mins=1 maxs=898 diamonds=992 tops=539 stacked=131 maxstack=3 fano=5.540 diam_per100=58.700
+INT rule=U K=2 q=0.1 n=2000 seed=2 lo=16 cnt=19 r=0.55522 dmm=1.859
+WHOLE rule=U K=2 q=0.1 W=50 n=2000 seed=3 r=0.010522 dmm=6.6009 height=19 links=2571 linkpar_last=1.275 mins=1 maxs=890 diamonds=724 tops=457 stacked=128 maxstack=4 fano=3.184 diam_per100=37.800
+INT rule=U K=2 q=0.1 n=2000 seed=3 lo=16 cnt=55 r=0.58318 dmm=1.792
+WHOLE rule=U K=2 q=0.1 W=50 n=2000 seed=4 r=0.011714 dmm=6.4794 height=16 links=2885 linkpar_last=1.515 mins=1 maxs=886 diamonds=1297 tops=614 stacked=257 maxstack=4 fano=4.346 diam_per100=76.200
+INT rule=U K=2 q=0.1 n=2000 seed=4 lo=16 cnt=86 r=0.55614 dmm=1.857
+INT rule=U K=2 q=0.1 n=2000 seed=4 lo=32 cnt=5 r=0.27904 dmm=2.752
+WHOLE rule=U K=2 q=0.1 W=50 n=2000 seed=5 r=0.009583 dmm=6.7067 height=15 links=2727 linkpar_last=1.390 mins=1 maxs=872 diamonds=969 tops=536 stacked=142 maxstack=3 fano=3.058 diam_per100=53.300
+INT rule=U K=2 q=0.1 n=2000 seed=5 lo=16 cnt=39 r=0.45886 dmm=2.114
+WHOLE rule=U K=2 q=0.1 W=50 n=8000 seed=1 r=0.003322 dmm=7.8973 height=23 links=11290 linkpar_last=1.423 mins=1 maxs=3506 diamonds=4667 tops=2279 stacked=812 maxstack=4 fano=5.508 diam_per100=63.775
+INT rule=U K=2 q=0.1 n=8000 seed=1 lo=16 cnt=50 r=0.66627 dmm=1.608
+INT rule=U K=2 q=0.1 n=8000 seed=1 lo=32 cnt=1 r=0.34203 dmm=2.494
+WHOLE rule=U K=2 q=0.1 W=50 n=8000 seed=2 r=0.002966 dmm=8.0239 height=19 links=11475 linkpar_last=1.458 mins=1 maxs=3518 diamonds=5121 tops=2351 stacked=822 maxstack=4 fano=3.369 diam_per100=75.025
+INT rule=U K=2 q=0.1 n=8000 seed=2 lo=16 cnt=30 r=0.55747 dmm=1.854
+INT rule=U K=2 q=0.1 n=8000 seed=2 lo=32 cnt=3 r=0.31837 dmm=2.586
+WHOLE rule=U K=2 q=0.1 W=50 n=8000 seed=3 r=0.003295 dmm=7.9065 height=20 links=10856 linkpar_last=1.431 mins=1 maxs=3551 diamonds=3907 tops=2095 stacked=660 maxstack=4 fano=3.193 diam_per100=57.325
+INT rule=U K=2 q=0.1 n=8000 seed=3 lo=16 cnt=37 r=0.61518 dmm=1.719
+INT rule=U K=2 q=0.1 n=8000 seed=3 lo=32 cnt=5 r=0.37847 dmm=2.365
+WHOLE rule=U K=2 q=0.1 W=50 n=8000 seed=4 r=0.004159 dmm=7.6459 height=19 links=12277 linkpar_last=1.639 mins=1 maxs=3463 diamonds=7154 tops=2626 stacked=1290 maxstack=5 fano=8.139 diam_per100=99.875
+INT rule=U K=2 q=0.1 n=8000 seed=4 lo=16 cnt=75 r=0.54466 dmm=1.885
+INT rule=U K=2 q=0.1 n=8000 seed=4 lo=32 cnt=20 r=0.30548 dmm=2.638
+INT rule=U K=2 q=0.1 n=8000 seed=4 lo=64 cnt=3 r=0.20205 dmm=3.152
+WHOLE rule=U K=2 q=0.1 W=50 n=8000 seed=5 r=0.003237 dmm=7.9262 height=21 links=11434 linkpar_last=1.459 mins=1 maxs=3489 diamonds=4974 tops=2316 stacked=872 maxstack=4 fano=4.968 diam_per100=67.675
+INT rule=U K=2 q=0.1 n=8000 seed=5 lo=16 cnt=33 r=0.53354 dmm=1.913
+INT rule=U K=2 q=0.1 n=8000 seed=5 lo=32 cnt=2 r=0.34225 dmm=2.494
+WHOLE rule=U K=2 q=0.1 W=50 n=32000 seed=1 r=0.001104 dmm=9.1232 height=24 links=48167 linkpar_last=1.565 mins=1 maxs=13905 diamonds=25740 tops=9955 stacked=4357 maxstack=5 fano=6.926 diam_per100=94.094
+INT rule=U K=2 q=0.1 n=32000 seed=1 lo=16 cnt=23 r=0.69219 dmm=1.554
+INT rule=U K=2 q=0.1 n=32000 seed=1 lo=32 cnt=3 r=0.33247 dmm=2.530
+WHOLE rule=U K=2 q=0.1 W=50 n=32000 seed=2 r=0.001041 dmm=9.1883 height=22 links=48828 linkpar_last=1.631 mins=1 maxs=13883 diamonds=28213 tops=10110 stacked=4530 maxstack=5 fano=12.763 diam_per100=105.481
+INT rule=U K=2 q=0.1 n=32000 seed=2 lo=16 cnt=15 r=0.66390 dmm=1.613
+INT rule=U K=2 q=0.1 n=32000 seed=2 lo=32 cnt=6 r=0.20124 dmm=3.157
+INT rule=U K=2 q=0.1 n=32000 seed=2 lo=64 cnt=3 r=0.18604 dmm=3.253
+WHOLE rule=U K=2 q=0.1 W=50 n=32000 seed=3 r=0.001053 dmm=9.1759 height=25 links=46033 linkpar_last=1.470 mins=1 maxs=14031 diamonds=21106 tops=9264 stacked=3612 maxstack=5 fano=6.800 diam_per100=74.894
+INT rule=U K=2 q=0.1 n=32000 seed=3 lo=16 cnt=28 r=0.67617 dmm=1.587
+INT rule=U K=2 q=0.1 n=32000 seed=3 lo=32 cnt=8 r=0.41909 dmm=2.233
+WHOLE rule=U K=2 q=0.1 W=50 n=32000 seed=4 r=0.001678 dmm=8.6587 height=22 links=53732 linkpar_last=1.786 mins=1 maxs=13632 diamonds=42788 tops=11054 stacked=5965 maxstack=6 fano=22.174 diam_per100=158.131
+INT rule=U K=2 q=0.1 n=32000 seed=4 lo=16 cnt=54 r=0.47901 dmm=2.057
+INT rule=U K=2 q=0.1 n=32000 seed=4 lo=32 cnt=21 r=0.23392 dmm=2.971
+INT rule=U K=2 q=0.1 n=32000 seed=4 lo=64 cnt=5 r=0.14559 dmm=3.550
+INT rule=U K=2 q=0.1 n=32000 seed=4 lo=128 cnt=6 r=0.11779 dmm=3.805
+WHOLE rule=U K=2 q=0.1 W=50 n=32000 seed=5 r=0.001138 dmm=9.0895 height=24 links=48821 linkpar_last=1.600 mins=1 maxs=13879 diamonds=28053 tops=9934 stacked=4535 maxstack=5 fano=11.113 diam_per100=103.375
+INT rule=U K=2 q=0.1 n=32000 seed=5 lo=16 cnt=28 r=0.49628 dmm=2.010
+INT rule=U K=2 q=0.1 n=32000 seed=5 lo=32 cnt=3 r=0.28935 dmm=2.706
+INT rule=U K=2 q=0.1 n=32000 seed=5 lo=64 cnt=2 r=0.29165 dmm=2.696
+INT rule=U K=2 q=0.1 n=32000 seed=5 lo=128 cnt=1 r=0.14953 dmm=3.518
+WHOLE rule=U K=2 q=0.2 W=50 n=500 seed=1 r=0.064633 dmm=4.5148 height=14 links=1174 linkpar_last=3.120 mins=1 maxs=160 diamonds=1559 tops=302 stacked=162 maxstack=4 fano=12.726 diam_per100=442.000
+INT rule=U K=2 q=0.2 n=500 seed=1 lo=16 cnt=200 r=0.39042 dmm=2.325
+INT rule=U K=2 q=0.2 n=500 seed=1 lo=32 cnt=200 r=0.28483 dmm=2.726
+INT rule=U K=2 q=0.2 n=500 seed=1 lo=64 cnt=24 r=0.25535 dmm=2.863
+WHOLE rule=U K=2 q=0.2 W=50 n=500 seed=2 r=0.053579 dmm=4.7341 height=13 links=1060 linkpar_last=2.400 mins=1 maxs=180 diamonds=1225 tops=276 stacked=142 maxstack=4 fano=14.562 diam_per100=356.000
+INT rule=U K=2 q=0.2 n=500 seed=2 lo=16 cnt=200 r=0.32999 dmm=2.540
+INT rule=U K=2 q=0.2 n=500 seed=2 lo=32 cnt=200 r=0.30607 dmm=2.635
+WHOLE rule=U K=2 q=0.2 W=50 n=500 seed=3 r=0.060168 dmm=4.5986 height=13 links=1061 linkpar_last=2.340 mins=1 maxs=180 diamonds=1616 tops=252 stacked=112 maxstack=4 fano=22.224 diam_per100=459.000
+INT rule=U K=2 q=0.2 n=500 seed=3 lo=16 cnt=200 r=0.33356 dmm=2.526
+INT rule=U K=2 q=0.2 n=500 seed=3 lo=32 cnt=200 r=0.28717 dmm=2.716
+INT rule=U K=2 q=0.2 n=500 seed=3 lo=64 cnt=39 r=0.24843 dmm=2.897
+WHOLE rule=U K=2 q=0.2 W=50 n=500 seed=4 r=0.083134 dmm=4.2188 height=13 links=1504 linkpar_last=5.600 mins=1 maxs=148 diamonds=4958 tops=320 stacked=220 maxstack=4 fano=34.414 diam_per100=1049.000
+INT rule=U K=2 q=0.2 n=500 seed=4 lo=16 cnt=200 r=0.28962 dmm=2.705
+INT rule=U K=2 q=0.2 n=500 seed=4 lo=32 cnt=200 r=0.23153 dmm=2.984
+INT rule=U K=2 q=0.2 n=500 seed=4 lo=64 cnt=200 r=0.20776 dmm=3.118
+INT rule=U K=2 q=0.2 n=500 seed=4 lo=128 cnt=17 r=0.22317 dmm=3.030
+WHOLE rule=U K=2 q=0.2 W=50 n=500 seed=5 r=0.039832 dmm=5.0785 height=12 links=888 linkpar_last=1.800 mins=1 maxs=182 diamonds=718 tops=226 stacked=79 maxstack=3 fano=0.794 diam_per100=166.500
+INT rule=U K=2 q=0.2 n=500 seed=5 lo=16 cnt=188 r=0.47492 dmm=2.068
+INT rule=U K=2 q=0.2 n=500 seed=5 lo=32 cnt=6 r=0.33526 dmm=2.520
+WHOLE rule=U K=2 q=0.2 W=50 n=2000 seed=1 r=0.100688 dmm=3.9919 height=17 links=12730 linkpar_last=15.525 mins=1 maxs=408 diamonds=108743 tops=1415 stacked=1098 maxstack=6 fano=2020.043 diam_per100=9878.200
+INT rule=U K=2 q=0.2 n=2000 seed=1 lo=16 cnt=200 r=0.23596 dmm=2.961
+INT rule=U K=2 q=0.2 n=2000 seed=1 lo=32 cnt=200 r=0.17389 dmm=3.335
+INT rule=U K=2 q=0.2 n=2000 seed=1 lo=64 cnt=200 r=0.13610 dmm=3.632
+INT rule=U K=2 q=0.2 n=2000 seed=1 lo=128 cnt=200 r=0.13204 dmm=3.668
+INT rule=U K=2 q=0.2 n=2000 seed=1 lo=256 cnt=200 r=0.13909 dmm=3.605
+INT rule=U K=2 q=0.2 n=2000 seed=1 lo=512 cnt=87 r=0.17117 dmm=3.354
+WHOLE rule=U K=2 q=0.2 W=50 n=2000 seed=2 r=0.061538 dmm=4.5723 height=16 links=9083 linkpar_last=9.375 mins=1 maxs=489 diamonds=84607 tops=1318 stacked=878 maxstack=5 fano=4514.238 diam_per100=7798.000
+INT rule=U K=2 q=0.2 n=2000 seed=2 lo=16 cnt=200 r=0.22937 dmm=2.996
+INT rule=U K=2 q=0.2 n=2000 seed=2 lo=32 cnt=200 r=0.17041 dmm=3.360
+INT rule=U K=2 q=0.2 n=2000 seed=2 lo=64 cnt=200 r=0.15333 dmm=3.488
+INT rule=U K=2 q=0.2 n=2000 seed=2 lo=128 cnt=200 r=0.14932 dmm=3.520
+INT rule=U K=2 q=0.2 n=2000 seed=2 lo=256 cnt=200 r=0.16244 dmm=3.418
+INT rule=U K=2 q=0.2 n=2000 seed=2 lo=512 cnt=14 r=0.20117 dmm=3.157
+WHOLE rule=U K=2 q=0.2 W=50 n=2000 seed=3 r=0.052659 dmm=4.7542 height=16 links=9389 linkpar_last=7.485 mins=1 maxs=518 diamonds=109339 tops=1254 stacked=849 maxstack=5 fano=3117.470 diam_per100=9934.800
+INT rule=U K=2 q=0.2 n=2000 seed=3 lo=16 cnt=200 r=0.24594 dmm=2.909
+INT rule=U K=2 q=0.2 n=2000 seed=3 lo=32 cnt=200 r=0.18616 dmm=3.252
+INT rule=U K=2 q=0.2 n=2000 seed=3 lo=64 cnt=200 r=0.17103 dmm=3.355
+INT rule=U K=2 q=0.2 n=2000 seed=3 lo=128 cnt=200 r=0.16645 dmm=3.388
+INT rule=U K=2 q=0.2 n=2000 seed=3 lo=256 cnt=137 r=0.18771 dmm=3.242
+INT rule=U K=2 q=0.2 n=2000 seed=3 lo=512 cnt=8 r=0.22048 dmm=3.044
+WHOLE rule=U K=2 q=0.2 W=50 n=2000 seed=4 r=0.132076 dmm=3.6677 height=18 links=21112 linkpar_last=26.370 mins=1 maxs=357 diamonds=365816 tops=1323 stacked=1030 maxstack=5 fano=3083.976 diam_per100=30700.700
+INT rule=U K=2 q=0.2 n=2000 seed=4 lo=16 cnt=200 r=0.18512 dmm=3.259
+INT rule=U K=2 q=0.2 n=2000 seed=4 lo=32 cnt=200 r=0.16199 dmm=3.421
+INT rule=U K=2 q=0.2 n=2000 seed=4 lo=64 cnt=200 r=0.14747 dmm=3.535
+INT rule=U K=2 q=0.2 n=2000 seed=4 lo=128 cnt=200 r=0.16001 dmm=3.436
+INT rule=U K=2 q=0.2 n=2000 seed=4 lo=256 cnt=200 r=0.17885 dmm=3.301
+INT rule=U K=2 q=0.2 n=2000 seed=4 lo=512 cnt=200 r=0.21585 dmm=3.071
+INT rule=U K=2 q=0.2 n=2000 seed=4 lo=1024 cnt=3 r=0.27758 dmm=2.758
+WHOLE rule=U K=2 q=0.2 W=50 n=2000 seed=5 r=0.024941 dmm=5.6179 height=17 links=5736 linkpar_last=4.290 mins=1 maxs=619 diamonds=17588 tops=1242 stacked=743 maxstack=4 fano=606.284 diam_per100=1395.600
+INT rule=U K=2 q=0.2 n=2000 seed=5 lo=16 cnt=200 r=0.32367 dmm=2.565
+INT rule=U K=2 q=0.2 n=2000 seed=5 lo=32 cnt=200 r=0.23835 dmm=2.948
+INT rule=U K=2 q=0.2 n=2000 seed=5 lo=64 cnt=92 r=0.21034 dmm=3.102
+INT rule=U K=2 q=0.2 n=2000 seed=5 lo=128 cnt=8 r=0.19509 dmm=3.195
+WHOLE rule=U K=2 q=0.2 W=50 n=8000 seed=1 r=0.226888 dmm=3.0091 height=20 links=623014 linkpar_last=200.690 mins=1 maxs=867 diamonds=4289183 tops=4054 stacked=3192 maxstack=8 fano=44229.951 diam_per100=83558.175
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=16 cnt=200 r=0.10094 dmm=3.989
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=32 cnt=200 r=0.08315 dmm=4.219
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=64 cnt=200 r=0.10558 dmm=3.935
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=128 cnt=200 r=0.13151 dmm=3.673
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=256 cnt=200 r=0.15112 dmm=3.505
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=512 cnt=200 r=0.19948 dmm=3.168
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=1024 cnt=200 r=0.23675 dmm=2.956
+INT rule=U K=2 q=0.2 n=8000 seed=1 lo=2048 cnt=200 r=0.29317 dmm=2.690
+WHOLE rule=U K=2 q=0.2 W=50 n=8000 seed=2 r=0.157000 dmm=3.4593 height=18 links=373484 linkpar_last=119.064 mins=1 maxs=1109 diamonds=3358701 tops=4542 stacked=3417 maxstack=7 fano=31439.220 diam_per100=66287.225
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=16 cnt=200 r=0.14212 dmm=3.580
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=32 cnt=200 r=0.11409 dmm=3.843
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=64 cnt=200 r=0.11495 dmm=3.834
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=128 cnt=200 r=0.13897 dmm=3.607
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=256 cnt=200 r=0.17186 dmm=3.350
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=512 cnt=200 r=0.20349 dmm=3.143
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=1024 cnt=200 r=0.25190 dmm=2.879
+INT rule=U K=2 q=0.2 n=8000 seed=2 lo=2048 cnt=200 r=0.28882 dmm=2.708
+WHOLE rule=U K=2 q=0.2 W=50 n=8000 seed=3 r=0.135868 dmm=3.6337 height=22 links=318905 linkpar_last=96.539 mins=1 maxs=1200 diamonds=2930911 tops=4474 stacked=3373 maxstack=7 fano=31298.763 diam_per100=57063.500
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=16 cnt=200 r=0.18283 dmm=3.274
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=32 cnt=200 r=0.12276 dmm=3.755
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=64 cnt=200 r=0.13093 dmm=3.678
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=128 cnt=200 r=0.14914 dmm=3.521
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=256 cnt=200 r=0.18390 dmm=3.267
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=512 cnt=200 r=0.21787 dmm=3.059
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=1024 cnt=200 r=0.25399 dmm=2.869
+INT rule=U K=2 q=0.2 n=8000 seed=3 lo=2048 cnt=200 r=0.26373 dmm=2.822
+WHOLE rule=U K=2 q=0.2 W=50 n=8000 seed=4 r=0.243516 dmm=2.9215 height=23 links=955280 linkpar_last=306.241 mins=1 maxs=831 diamonds=4787097 tops=3478 stacked=2656 maxstack=7 fano=69426.183 diam_per100=82331.900
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=16 cnt=200 r=0.12010 dmm=3.782
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=32 cnt=200 r=0.08288 dmm=4.222
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=64 cnt=200 r=0.08412 dmm=4.205
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=128 cnt=200 r=0.10332 dmm=3.961
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=256 cnt=200 r=0.14201 dmm=3.580
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=512 cnt=200 r=0.20408 dmm=3.140
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=1024 cnt=200 r=0.26741 dmm=2.805
+INT rule=U K=2 q=0.2 n=8000 seed=4 lo=2048 cnt=200 r=0.32079 dmm=2.576
+WHOLE rule=U K=2 q=0.2 W=50 n=8000 seed=5 r=0.066924 dmm=4.4740 height=19 links=90968 linkpar_last=28.407 mins=1 maxs=1494 diamonds=1165100 tops=5259 stacked=3901 maxstack=7 fano=14019.134 diam_per100=24783.800
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=16 cnt=200 r=0.22146 dmm=3.039
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=32 cnt=200 r=0.17476 dmm=3.329
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=64 cnt=200 r=0.15848 dmm=3.448
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=128 cnt=200 r=0.14375 dmm=3.566
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=256 cnt=200 r=0.14136 dmm=3.586
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=512 cnt=200 r=0.14507 dmm=3.555
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=1024 cnt=200 r=0.15341 dmm=3.487
+INT rule=U K=2 q=0.2 n=8000 seed=5 lo=2048 cnt=9 r=0.16175 dmm=3.423
+FAIL rule=U K=2 q=0.2 n=32000 seed=1
+FAIL(not run after seed 1 timed out at 600 s) rule=U K=2 q=0.2 n=32000 seed=2
+FAIL(not run after seed 1 timed out at 600 s) rule=U K=2 q=0.2 n=32000 seed=3
+FAIL(not run after seed 1 timed out at 600 s) rule=U K=2 q=0.2 n=32000 seed=4
+FAIL(not run after seed 1 timed out at 600 s) rule=U K=2 q=0.2 n=32000 seed=5
