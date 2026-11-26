@@ -1,6 +1,6 @@
 # HMR Physics
 
-The physics of the Holistic Model of Reality (HMR). The readable version lives at [universemodel.ai/physics.html](https://universemodel.ai/physics.html); this repository holds the versions, derivations, and the scripts behind the numbers, so anyone can check them.
+The physics of the Holistic Model of Reality (HMR). The readable version lives at the HMR source pages; this repository holds the versions, derivations, and the scripts behind the numbers, so anyone can check them.
 
 ## Versions
 
